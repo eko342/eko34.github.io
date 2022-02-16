@@ -1,6 +1,6 @@
-[
-  {
-   "an1" : "Develeasyon",
+{
+  "-Ls8qYqNjw_pbkQw7bCE" : {
+    "an1" : "Develeasyon",
     "an2" : "Enflasyon",
     "an3" : "Deflasyon",
     "an4" : "Cereme",
@@ -11,6 +11,7 @@
     "ques" : "Paranın değerinin düşmesine ne denir? ",
     "rean" : "Enflasyon"
   },
+  "-Ls8x9WZqX9PeEQ3Bncz" : {
     "an1" : "Toros Dağları",
     "an2" : "Aladağlar",
     "an3" : "Ağrı Dağı",
@@ -21,7 +22,8 @@
     "qu_poi" : "14",
     "ques" : "Türkiye'nin en yüksek dağı nedir? ",
     "rean" : "Ağrı Dağı"
- {
+  },
+  "-Ls8z3ZNWb150etbA2RC" : {
     "an1" : "Bakü",
     "an2" : "Dhaka",
     "an3" : "Brüksel",
@@ -33,7 +35,7 @@
     "ques" : "Avrupanın birliğinin başkenti neresidir?",
     "rean" : "Brüksel"
   },
-    {
+  "-Ls9-Bl5U-oQz_GSQ7u_" : {
     "an1" : "Grönland",
     "an2" : "Yeni Gine",
     "an3" : "Borneo",
@@ -45,7 +47,7 @@
     "ques" : "Dünyanın en büyük adası hangisidir? ",
     "rean" : "Grönland"
   },
-  {
+  "-Ls9-ifZdv88mSmWYV8v" : {
     "an1" : "Galen",
     "an2" : "İbn-i Sina",
     "an3" : "Herodot",
@@ -57,7 +59,7 @@
     "ques" : "Aşağıdakilerden hangisi İspanyol Tıp Bilginidir?",
     "rean" : "Hipokrat"
   },
-  {
+  "-Ls90KnMRytgoCCAI-8M" : {
     "an1" : "Bor",
     "an2" : "Demir",
     "an3" : "Zımpara Taşı",
@@ -69,7 +71,7 @@
     "ques" : "Aşağıdakilerden hangisi \nErzurum'da çıkarılan madendir?",
     "rean" : "Oltu Taşı"
   },
-  {
+  "-Ls98U3sunZgHdbulxNm" : {
     "an1" : "Şinasi",
     "an2" : "Namık Kemal",
     "an3" : "Yaşar Kemal",
@@ -81,7 +83,7 @@
     "ques" : "İlk yerli tiyatro yazarı kimdir? ",
     "rean" : "Şinasi"
   },
-  {
+  "-Ls98z5qq5S41OlFfuzg" : {
     "an1" : "Salda Gölü",
     "an2" : "Baykal Gölü",
     "an3" : "Akşehir Gölü",
@@ -93,7 +95,7 @@
     "ques" : "Dünyanın en büyük gölü hangisidir? ",
     "rean" : "Baykal Gölü"
   },
- {
+  "-Ls99T2dgkKD45OeW8uc" : {
     "an1" : "Alma Ata",
     "an2" : "Tirana",
     "an3" : "Canberra",
@@ -105,7 +107,7 @@
     "ques" : "Kazakistan'ın başkenti neresidir? ",
     "rean" : "Alma Ata"
   },
-  {
+  "-Ls99rL71JwjC8zvHQZM" : {
     "an1" : "Luis Pastör",
     "an2" : "Marie Curie",
     "an3" : "Nicolaus Copernicus",
@@ -116,7 +118,8 @@
     "qu_poi" : "14",
     "ques" : "Kuduz aşısını bulan kişi kimdir? ",
     "rean" : "Luis Pastör"
-  },{
+  },
+  "-Ls9ADYt9Sh6FIVd1PgG" : {
     "an1" : "Belçika",
     "an2" : "Guatemala",
     "an3" : "Güney Afrika",
@@ -128,7 +131,7 @@
     "ques" : "Aşağıdaki ülkelerden hangisinin iki başkenti vardır? ",
     "rean" : "Güney Afrika"
   },
-{
+  "-Ls9Ak99pMXIHsymdvOU" : {
     "an1" : "Neşeli Günler",
     "an2" : "Muhsin Bey",
     "an3" : "Tatlı Dillim",
@@ -140,7 +143,7 @@
     "ques" : "Aşağıdaki filmlerden hangisinde Tarık Akan ve Kemal Sunal rol almıştır? ",
     "rean" : "Tatlı Dillim"
   },
-  {
+  "-Ls9BuAd7duF3StO1X6J" : {
     "an1" : "Bişkek",
     "an2" : "Taşkent",
     "an3" : "Lisbon",
@@ -152,7 +155,7 @@
     "ques" : "Özbekistan'ın başkenti hangisidir? ",
     "rean" : "Taşkent"
   },
- {
+  "-Ls9CQadFu1c9BvpvOsJ" : {
     "an1" : "Cevat Şakir",
     "an2" : "Yakup Kadri Karaosmanoğlu",
     "an3" : "Yaşar Kemal",
@@ -164,7 +167,7 @@
     "ques" : "Halikarnas Balıkçısı adlı eserin yazarı kimdir? ",
     "rean" : "Cevat Şakir"
   },
- {
+  "-Ls9Ce3BosBre5YOszz_" : {
     "an1" : "Fransa",
     "an2" : "Almanya",
     "an3" : "Belçika",
@@ -176,7 +179,7 @@
     "ques" : "Sicilya adası hangi ülkenin sınırları içerisindedir? ",
     "rean" : "İtalya"
   },
-  {
+  "-Ls9D-jZSQ1263mGtaZa" : {
     "an1" : "Isaac Newton",
     "an2" : "El-Bîrûnî",
     "an3" : "El-Cezeri",
@@ -200,7 +203,7 @@
     "ques" : "Almanlara ait olan destanın adı nedir? ",
     "rean" : "Nibelungen"
   },
-  {
+  "-LsBiXINr2piYaEZ6xVq" : {
     "an1" : "BM",
     "an2" : "UNESCO",
     "an3" : "DSÖ",
@@ -212,7 +215,7 @@
     "ques" : "Aşağıdakilerden hangisi Çocukları Koruma Vakfıdır? ",
     "rean" : "UNICEF"
   },
-   {
+  "-LsBoBYFm-T_j5zUCIwJ" : {
     "an1" : "Frederic Chopin",
     "an2" : "Pyotr İlyiç Çaykovski",
     "an3" : "Johannes Brahms",
@@ -224,7 +227,7 @@
     "ques" : "Kuğu Gölü adlı beste kime aittir? ",
     "rean" : "Pyotr İlyiç Çaykovski"
   },
- {
+  "-LsBoebLw0bQ0y5jLHNu" : {
     "an1" : "Andre Gide",
     "an2" : "Alphonse Daudet",
     "an3" : "Daniel Defoe",
@@ -236,7 +239,7 @@
     "ques" : "Don Kişot adlı eserin yazarı kimdir? ",
     "rean" : "Miguel de Cervantes"
   },
-  {
+  "-LsBowhTdWwB95iA00Jk" : {
     "an1" : "Edirne",
     "an2" : "Trakya",
     "an3" : "Buca",
@@ -248,7 +251,7 @@
     "ques" : "Kırkpınar Güreşleri ile ünlü olan şehrimiz hangisidir? ",
     "rean" : "Edirne"
   },
-   {
+  "-LsBpHFN4GM8GwI1Qj9M" : {
     "an1" : "Frigyalılar",
     "an2" : "Lidyalılar",
     "an3" : "Artuklular",
@@ -260,7 +263,7 @@
     "ques" : "Karun Hazineleri hangi milletin hükümdarına aittir? ",
     "rean" : "Lidyalılar"
   },
- {
+  "-LsBpmUhdY9pSkTQjXmW" : {
     "an1" : "Margaret Thatcher",
     "an2" : "Bernadette Nicole",
     "an3" : "Carolinna Laney",
@@ -272,7 +275,7 @@
     "ques" : "Birleşik Krallık'ta en uzun süre başbakanlık yapan kişi ve ülkenin ilk kadın başbakanı kimdir? ",
     "rean" : "Margaret Thatcher"
   },
- {
+  "-LsBqiIHHSUMs-yruRj8" : {
     "an1" : "Kümbet",
     "an2" : "Ziggurat",
     "an3" : "Piramit",
@@ -283,7 +286,8 @@
     "qu_poi" : "15",
     "ques" : "Sümer Tapınaklarına verilen isim nedir? ",
     "rean" : "Ziggurat"
-  },{
+  },
+  "-LsBr-chDjUkNGRQO7Yd" : {
     "an1" : "Hititler",
     "an2" : "Frigyalılar",
     "an3" : "Urartular",
@@ -294,7 +298,8 @@
     "qu_poi" : "14",
     "ques" : "İlk yazılı hukuk kuralları hangi uygarlık tarafından oluşturulmuştur? ",
     "rean" : "Sümerler"
-  }, {
+  },
+  "-LsBreDzH7N32P77vGBX" : {
     "an1" : "Artuklular",
     "an2" : "Frigyalılar",
     "an3" : "Aztekler",
@@ -306,7 +311,7 @@
     "ques" : "Midas Mezarı hangi uygarlığın eserleri arasındadır? ",
     "rean" : "Frigyalılar"
   },
- {
+  "-LsBsVE0xnKPP4fItK_c" : {
     "an1" : "Fransa",
     "an2" : "İtalya",
     "an3" : "Almanya",
@@ -318,7 +323,7 @@
     "ques" : "Rönesans aşağıdaki ülkelerden hangisinde başlamıştır? ",
     "rean" : "Almanya"
   },
-   {
+  "-LsBt7OSML-hFsc0Xwb8" : {
     "an1" : "Kıdem",
     "an2" : "Beka",
     "an3" : "Vahdaniyet",
@@ -330,7 +335,7 @@
     "ques" : "Allahın sonradan yarattıklarına benzememesi anlamına gelen sıfat Hangisidir? ",
     "rean" : "Muhalefet-ün Lil Havadis"
   },
-  {
+  "-LsBtYfAUiTfp74oQ0TB" : {
     "an1" : "Fatiha Sûresi",
     "an2" : "Bakara Sûresi",
     "an3" : "Felak Sûresi",
@@ -342,7 +347,7 @@
     "ques" : "Kur'an-ı Kerim'in ilk sûresi hangisidir? ",
     "rean" : "Fatiha Sûresi"
   },
-  {
+  "-LsBu1WkveQ6xgxY096S" : {
     "an1" : "1876 Anayasası",
     "an2" : "1919 Anayasası",
     "an3" : "1923 Anayasası",
@@ -354,7 +359,7 @@
     "ques" : "Türkiye Cumhuriyeti'nin ilk anayasası hangisidir? ",
     "rean" : "1921 Anayasası"
   },
- {
+  "-LsBuKlwF8oioNEVRa2x" : {
     "an1" : "21 Aralık",
     "an2" : "21 Haziran",
     "an3" : "23 Temmuz",
@@ -366,7 +371,7 @@
     "ques" : "Kuzey Yarım Kürede ilk bahar başlangıç tarihi nedir? ",
     "rean" : "21 Mart"
   },
-  {
+  "-LsBumE3av__5--fX7Zp" : {
     "an1" : "Oksijen",
     "an2" : "Hidrojen",
     "an3" : "Karbondioksit",
@@ -1422,7 +1427,7 @@
     "ques" : "Ortadoksların Mezhebinin Merkez Kilisesi Hangi Şehirdedir?",
     "rean" : "İstanbul"
   },
-   {
+  "-LtktZwY70afelf3j6uY" : {
     "an1" : "109",
     "an2" : "89",
     "an3" : "103",
@@ -1434,7 +1439,7 @@
     "ques" : "Okey Oyun Taşı Kaç Adettir ?",
     "rean" : "106"
   },
-   {
+  "-LtkuePME9JqyB4m5o6l" : {
     "an1" : "Orhan Veli Kanık",
     "an2" : "Can Yücel ",
     "an3" : "Necip Fazıl Kısakürek ",
@@ -1446,7 +1451,7 @@
     "ques" : "Kaldırımlar Şiirinin Şairi Kimdir?",
     "rean" : "Necip Fazıl Kısakürek "
   },
-   {
+  "-LtkvxB3X5OB6tA7-9OH" : {
     "an1" : "Cem Karaca",
     "an2" : "Barış Manço",
     "an3" : "Erkin Koray",
@@ -1458,7 +1463,7 @@
     "ques" : "Dönence Şarkısı Hangi Ünlü Sanatçımıza Aittir?",
     "rean" : "Barış Manço"
   },
-   {
+  "-Ltky9Rq7VS1hWRVlnZ8" : {
     "an1" : "Neşe Karaböcek ",
     "an2" : "Ferdi Tayfur",
     "an3" : "Zeki Müren ",
@@ -1470,7 +1475,7 @@
     "ques" : "16 sefer Altın Plak Ödülü alarak bu rekoru Elinde Bulunduran Sanatçımız Kimdir?",
     "rean" : "Neşe Karaböcek "
   },
-  {
+  "-LtkzrqoZ3aJzH9BBb4Q" : {
     "an1" : "Hakkı Bulut",
     "an2" : "Müslüm Gürses ",
     "an3" : "Barış Manço ",
@@ -1482,7 +1487,7 @@
     "ques" : "Kendi Besteleri ile 60 Tane Albüm Yaparak Türkiye'de bu Rekoru Elinde Bulunduran Sanatçımız Kimdir?",
     "rean" : "Hakkı Bulut"
   },
-  {
+  "-Ltl07O28rCi77ZOineG" : {
     "an1" : "Erol Taş ",
     "an2" : "Hulusi Kentmen",
     "an3" : "Münir Özkul ",
@@ -1494,7 +1499,7 @@
     "ques" : "600 Filmde Rol Alarak Bu Alanda Rekoru Elinde Bulunduran Sanatçımız Kimdir?",
     "rean" : "Erol Taş "
   },
-  {
+  "-Ltl0gSuA3N6KNRm1Cpg" : {
     "an1" : "Rüştü Asyalı ",
     "an2" : "Öztürk Serengil ",
     "an3" : "Münir Özkul",
@@ -1506,7 +1511,7 @@
     "ques" : "Turist Ömer Karakterine Can Veren Sanatçımız Kimdir?",
     "rean" : "Sadri Alışık"
   },
- {
+  "-Ltl1zuN86rKs6fQO1Qz" : {
     "an1" : "Şener Şen",
     "an2" : "Yeşim Salkım ",
     "an3" : "Uğur Yücel",
@@ -1529,7 +1534,8 @@
     "qu_poi" : "60",
     "ques" : "Hangi şehirdeki metro istasyonu sayısı diğerlerinden daha fazladır? ",
     "rean" : "New York"
-  }, {
+  },
+  "-LtpnjV6U5UW5LJjQVcn" : {
     "an1" : "Arapça",
     "an2" : "Çince",
     "an3" : "Tibetçe",
@@ -1541,7 +1547,7 @@
     "ques" : "Avrasyatik dil teorisine göre Türkçe hangisiyle daha yakın akrabadır? ",
     "rean" : "İngilizce"
   },
-  {
+  "-MKKU9uurn1jPWeEf8Nx" : {
     "an1" : "3",
     "an2" : "4",
     "an3" : "5",
@@ -1552,5 +1558,5 @@
     "qu_poi" : "10",
     "ques" : "Cumhurbaşkanı kaç yılda bir seçilir? ",
     "rean" : "5"
+  }
 }
-  ]
