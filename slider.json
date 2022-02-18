@@ -1,22 +1,22 @@
 [
   {
     "slider_image" : "https://",
-    "slider_image1_description" : "Enflasyon",
-    "slider_image1_link" : "https://"
+    "slider_image_description" : "Enflasyon",
+    "slider_image_link" : "https://"
   },
   {
     "slider_image" : "https://",
-    "slider_image1_description" : "Enflasyon",
-    "slider_image1_link" : "https://""
+    "slider_image_description" : "Enflasyon",
+    "slider_image_link" : "https://""
   },
   {
       "slider_image" : "https://",
-    "slider_image1_description" : "Enflasyon",
-    "slider_image1_link" : "https://"
+    "slider_image_description" : "Enflasyon",
+    "slider_image_link" : "https://"
   },
   {
     "slider_image" : "https://",
-    "slider_image1_description" : "Enflasyon",
-    "slider_image1_link" : "https://"
+    "slider_image_description" : "Enflasyon",
+    "slider_image_link" : "https://"
   }
 ]
