@@ -22,11 +22,5 @@
     "slider_image_description" : "Uygulamamız ile para kazanın",
     "slider_image_link" : "https://",
       "slider_type" : "link"
-  },
-  {
-    "slider_image" : "https://i.hizliresim.com/oy7cgo6.jpg",
-    "slider_image_description" : "Hey Everyone, Click Me",
-    "slider_image_link" : "I Love Dane <3",
-      "slider_type" : "info"
   }
 ]
