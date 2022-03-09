@@ -21,7 +21,7 @@
     "slider_image_description" : "100 Çark Hakkı Hediye!",
     "slider_image_link" : "100",
     "slider_show" : "show",
-    "slider_type" : "spin"
+    "slider_type" : "spinb"
   },
    {
       "slider_id" : "3",
