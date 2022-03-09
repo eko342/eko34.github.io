@@ -1,5 +1,6 @@
 [
   {
+    "slider_id" : "0",
     "slider_image" : "https://cdn.hosting.com.tr/blog/wp-content/uploads/2019/09/%C4%B0nternetten-Nas%C4%B1l-Para-Kazanabilirim-1-1-1320x742.png",
     "slider_image_description" : "Uygulamamız sonunda aktif.",
     "slider_image_link" : "Uygulamamız yeni yayınlandı ve zamanla büyüyeceğiz.",
@@ -7,6 +8,7 @@
     "slider_type" : "info"
   },
   {
+     "slider_id" : "1",
     "slider_image" : "https://cdn.hosting.com.tr/blog/wp-content/uploads/2019/09/%C4%B0nternetten-Nas%C4%B1l-Para-Kazanabilirim-1-1-1320x742.png",
     "slider_image_description" : "Uygulamamız sonunda aktif.",
     "slider_image_link" : "Uygulamamız yeni yayınlandı ve zamanla büyüyeceğiz.",
@@ -14,6 +16,7 @@
     "slider_type" : "scratch"
   },
 {
+   "slider_id" : "2",
   "slider_image" : "https://img.freepik.com/free-vector/debit-card-gift-box-users-online-card-payment-plastic-money-bank-card-purchase-shopping-e-commerce-secure-bank-saving-concept-vector-isolated-illustration_335657-2222.jpg",
     "slider_image_description" : "100 Çark Hakkı Hediye!",
     "slider_image_link" : "100",
@@ -21,6 +24,7 @@
     "slider_type" : "spin"
   },
    {
+      "slider_id" : "3",
     "slider_image" : "https://cdn.hosting.com.tr/blog/wp-content/uploads/2019/09/instagram-ile-para-kazanma.jpg",
     "slider_image_description" : "İnstagram takip etmek için tıklayın",
     "slider_image_link" : "https://cdn.hosting.com.tr/blog/wp-content/uploads/2020/04/gorev-yaparak-para-kazanma.jpg",
@@ -28,6 +32,7 @@
       "slider_type" : "link"
   },
   {
+     "slider_id" : "4",
       "slider_image" : "https://cdn.hosting.com.tr/blog/wp-content/uploads/2020/04/gorev-yaparak-para-kazanma.jpg",
     "slider_image_description" : "Yorum yaparak puan kazanabilirsiniz",
     "slider_image_link" : "https://",
@@ -35,6 +40,7 @@
       "slider_type" : "link"
   },
   {
+     "slider_id" : "5",
     "slider_image" : "https://cdn.hosting.com.tr/blog/wp-content/uploads/2020/04/editorluk-yaparak-para-kazanma-1024x524.jpg",
     "slider_image_description" : "Uygulamamız ile para kazanın",
     "slider_image_link" : "https://",
