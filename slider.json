@@ -23,28 +23,36 @@
     "slider_show" : "hide",
     "slider_type" : "scratch"
   },
-   {
-      "slider_id" : "3",
-    "slider_image" : "https://cdn.hosting.com.tr/blog/wp-content/uploads/2019/09/instagram-ile-para-kazanma.jpg",
-    "slider_image_description" : "İnstagram takip etmek için tıklayın",
-    "slider_image_link" : "https://cdn.hosting.com.tr/blog/wp-content/uploads/2020/04/gorev-yaparak-para-kazanma.jpg",
-      "slider_show" : "show",
+  {
+     "slider_id" : "3",
+    "slider_image" : "https://cdn.hosting.com.tr/blog/wp-content/uploads/2020/04/editorluk-yaparak-para-kazanma-1024x524.jpg",
+    "slider_image_description" : "Uygulamamız ile para kazanın",
+    "slider_image_link" : "https://",
+    "slider_show" : "hide",
       "slider_type" : "link"
   },
+   {
+      "slider_id" : "4",
+    "slider_image" : "https://cdn.hosting.com.tr/blog/wp-content/uploads/2019/09/instagram-ile-para-kazanma.jpg",
+    "slider_image_description" : "Ücretsiz hediyeler!",
+    "slider_image_link" : "Uygulamamızda kullanıcılarımıza bazen hediye olarak çark hakkı ve kazı kazan hakkı vereceğiz. Bu ödülleri kaçırmamak için uygulamamızı her zaman kontrol ediniz.",
+      "slider_show" : "show",
+      "slider_type" : "info"
+  },
   {
-     "slider_id" : "4",
+     "slider_id" : "5",
       "slider_image" : "https://cdn.hosting.com.tr/blog/wp-content/uploads/2020/04/gorev-yaparak-para-kazanma.jpg",
-    "slider_image_description" : "Yorum yaparak puan kazanabilirsiniz",
+    "slider_image_description" : "Görevleri yaparak puan kazanın",
     "slider_image_link" : "https://",
      "slider_show" : "show",
       "slider_type" : "link"
   },
   {
-     "slider_id" : "5",
+     "slider_id" : "6",
     "slider_image" : "https://cdn.hosting.com.tr/blog/wp-content/uploads/2020/04/editorluk-yaparak-para-kazanma-1024x524.jpg",
     "slider_image_description" : "Uygulamamız ile para kazanın",
     "slider_image_link" : "https://",
-    "slider_show" : "show",
+    "slider_show" : "hide",
       "slider_type" : "link"
   }
 ]
