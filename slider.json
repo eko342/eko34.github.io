@@ -12,7 +12,7 @@
   "slider_image" : "https://img.freepik.com/free-vector/debit-card-gift-box-users-online-card-payment-plastic-money-bank-card-purchase-shopping-e-commerce-secure-bank-saving-concept-vector-isolated-illustration_335657-2222.jpg",
     "slider_image_description" : "100 Çark Hakkı Hediye!",
     "slider_image_link" : "100",
-    "slider_show" : "show",
+    "slider_show" : "hide",
     "slider_type" : "spinbbc"
   },
   {
@@ -20,7 +20,7 @@
     "slider_image" : "https://img.freepik.com/free-vector/money-gift-as-charity-donation-bonus-reward-as-cashback-prize-jackpot-lucky-win-present_212005-448.jpg?size=626&ext=jpg",
     "slider_image_description" : "Bir hediyeniz var!",
     "slider_image_link" : "100",
-    "slider_show" : "show",
+    "slider_show" : "hide",
     "slider_type" : "scratch"
   },
    {
