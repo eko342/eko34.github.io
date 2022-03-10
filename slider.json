@@ -12,8 +12,8 @@
   "slider_image" : "https://img.freepik.com/free-vector/debit-card-gift-box-users-online-card-payment-plastic-money-bank-card-purchase-shopping-e-commerce-secure-bank-saving-concept-vector-isolated-illustration_335657-2222.jpg",
     "slider_image_description" : "100 Çark Hakkı Hediye!",
     "slider_image_link" : "100",
-    "slider_show" : "hide",
-    "slider_type" : "spinbbc"
+    "slider_show" : "show",
+    "slider_type" : "spinbbdc"
   },
   {
      "slider_id" : "2",
