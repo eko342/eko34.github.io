@@ -1,13 +1,13 @@
 [
   {
-    "slider_id" : "0",
-    "slider_image" : "https://t4.ftcdn.net/jpg/03/53/16/37/360_F_353163784_mpq7dxxmnAIapCshnMI0WwVLolt53RIg.jpg",
-    "slider_image_description" : "Uygulamamız artık aktif :)",
-     "slider_image_description_others" : "Application Active.",
-    "slider_image_link" : "Uygulamamız yeni yayınlandı ve zamanla büyüyeceğiz ",
-     "slider_image_link_others" : "Application Active",
-    "slider_show" : "show",
-    "slider_type" : "info"
+   "slider_id" : "0",
+    "slider_image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0okm53X7iLYFCQpX1HW4HpxqRUXV-I3eu4w&usqp=CAU",
+    "slider_image_description" : "Arkadaşını Davet Et Ve Puan Kazan",
+     "slider_image_description_others" : "Invite your friend and earn point",
+    "slider_image_link" : "Arkadaşlarını davet ederek puan kazanabilirsin! Arkadaşın kayıt olduktan sonra senin referans kodunu anasayfada açılacak olan mesaj kutusuna yazmalıdır.",
+    "slider_image_link_others" : "You can earn point,lets invite them! :)",
+     "slider_show" : "show",
+      "slider_type" : "info"
   },
   {
    "slider_id" : "1",
@@ -41,13 +41,13 @@
   },
    {
       "slider_id" : "4",
-    "slider_image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0okm53X7iLYFCQpX1HW4HpxqRUXV-I3eu4w&usqp=CAU",
-    "slider_image_description" : "Arkadaşını Davet Et",
-     "slider_image_description_others" : "Invite your friend",
-    "slider_image_link" : "Arkadaşlarını davet ederek puan kazanabilirsin! Arkadaşın kayıt olduktan sonra senin referans kodunu anasayfada açılacak olan mesaj kutusuna yazmalıdır.",
-    "slider_image_link_others" : "You can earn point,lets invite them! :)",
-     "slider_show" : "show",
-      "slider_type" : "info"
+    "slider_image" : "https://t4.ftcdn.net/jpg/03/53/16/37/360_F_353163784_mpq7dxxmnAIapCshnMI0WwVLolt53RIg.jpg",
+    "slider_image_description" : "Uygulamamız artık aktif :)",
+     "slider_image_description_others" : "Application Active.",
+    "slider_image_link" : "Uygulamamız yeni yayınlandı ve zamanla büyüyeceğiz ",
+     "slider_image_link_others" : "Application Active",
+    "slider_show" : "show",
+    "slider_type" : "info"
   },
   {
      "slider_id" : "5",
