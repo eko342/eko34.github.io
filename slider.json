@@ -16,7 +16,7 @@
     "slider_image_description_others" : "Application Active!",
     "slider_image_link" : "5",
      "slider_image_link_others" : "Application active ",
-    "slider_show" : "hide",
+    "slider_show" : "show",
     "slider_type" : "spinb4c" 
   },
   {
@@ -36,7 +36,7 @@
      "slider_image_description_others" : "Application active.",
      "slider_image_link" : "500",
       "slider_image_link_others" : "Application active ",
-    "slider_show" : "show",
+    "slider_show" : "hide,
     "slider_type" : "scratchpoint"
   },
    {
