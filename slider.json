@@ -53,11 +53,11 @@
      "slider_id" : "5",
       "slider_image" : "https://cdn.hosting.com.tr/blog/wp-content/uploads/2020/04/gorev-yaparak-para-kazanma.jpg",
     "slider_image_description" : "Görevleri yaparak puan kazanın",
-     "slider_image_description_others" : "Application active",
-    "slider_image_link" : "https://",
-     "slider_image_link_others" : "Application active ",
-     "slider_show" : "hide",
-      "slider_type" : "link"
+     "slider_image_description_others" : "Do task and earn point",
+    "slider_image_link" : "Görevler yaparak puan kazanabilirsiniz.",
+     "slider_image_link_others" : "You can earn point by doing tasks",
+     "slider_show" : "show",
+      "slider_type" : "info"
   },
   {
      "slider_id" : "6",
