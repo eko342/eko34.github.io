@@ -16,7 +16,7 @@
     "slider_image_description_others" : "Application Active!",
     "slider_image_link" : "5",
      "slider_image_link_others" : "Application active ",
-    "slider_show" : "show",
+    "slider_show" : "hide",
     "slider_type" : "spinb4c" 
   },
   {
@@ -26,7 +26,7 @@
      "slider_image_description_others" : "Application Active!",
      "slider_image_link" : "5",
       "slider_image_link_others" : "Application active ",
-    "slider_show" : "show",
+    "slider_show" : "hide",
     "slider_type" : "scratch"
   },
   {
@@ -41,11 +41,11 @@
   },
    {
       "slider_id" : "4",
-    "slider_image" : "https://img.freepik.com/free-vector/business-template-with-red-free-gift-banner-design-neon-icon-vector-business-template-present-gift-box-icon_100456-3511.jpg?size=626&ext=jpg",
-    "slider_image_description" : "Ücretsiz hediyeler hakkında",
-     "slider_image_description_others" : "Ücretsiz hediyeler hakkında",
-    "slider_image_link" : "Uygulamamızda kullanıcılarımıza bazen hediye olarak çark hakkı ve kazı kazan hakkı vereceğiz. Bu ödülleri kaçırmamak için uygulamamızı her zaman kontrol ediniz.",
-    "slider_image_link_others" : "Application active ",
+    "slider_image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0okm53X7iLYFCQpX1HW4HpxqRUXV-I3eu4w&usqp=CAU",
+    "slider_image_description" : "Arkadaşını Davet Et",
+     "slider_image_description_others" : "Invite your friend",
+    "slider_image_link" : "Arkadaşlarını davet ederek puan kazanabilirsin! Arkadaşın kayıt olduktan sonra senin referans kodunu anasayfada açılacak olan mesaj kutusuna yazmalıdır.",
+    "slider_image_link_others" : "You can earn point,lets invite them! :)",
      "slider_show" : "hide",
       "slider_type" : "info"
   },
