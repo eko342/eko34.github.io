@@ -36,7 +36,7 @@
      "slider_image_description_others" : "Application active.",
      "slider_image_link" : "500",
       "slider_image_link_others" : "Application active ",
-    "slider_show" : "hide",
+    "slider_show" : "show",
     "slider_type" : "scratchpoint"
   },
    {
@@ -46,7 +46,7 @@
      "slider_image_description_others" : "Invite your friend",
     "slider_image_link" : "Arkadaşlarını davet ederek puan kazanabilirsin! Arkadaşın kayıt olduktan sonra senin referans kodunu anasayfada açılacak olan mesaj kutusuna yazmalıdır.",
     "slider_image_link_others" : "You can earn point,lets invite them! :)",
-     "slider_show" : "hide",
+     "slider_show" : "show",
       "slider_type" : "info"
   },
   {
