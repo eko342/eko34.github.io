@@ -44,7 +44,7 @@
     "slider_image" : "https://t4.ftcdn.net/jpg/03/53/16/37/360_F_353163784_mpq7dxxmnAIapCshnMI0WwVLolt53RIg.jpg",
     "slider_image_description" : "Uygulamamız artık aktif :)",
      "slider_image_description_others" : "Application Active.",
-    "slider_image_link" : "Uygulamamız yeni yayınlandı ve zamanla büyüyeceğiz ",
+    "slider_image_link" : "Uygulamamız yeni yayınlandı ve zamanla büyüyeceğiz",
      "slider_image_link_others" : "Application Active",
     "slider_show" : "show",
     "slider_type" : "info"
@@ -65,7 +65,7 @@
     "slider_image_description" : "Uygulamamız ile para kazanın",
      "slider_image_description_others" : "Application active.",
     "slider_image_link" : "https://",
-     "slider_image_link_others" : "Application active ",
+     "slider_image_link_others" : "Application active",
     "slider_show" : "hide",
       "slider_type" : "link"
   }
