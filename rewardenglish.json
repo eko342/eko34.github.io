@@ -1,9 +1,15 @@
 [
   {
-     "name" : "25TL Gift Card",
-    "price" : "55000",
+     "name" : "5$ Gift Card",
+    "price" : "60000",
     "purl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3OJgQCeWqhl527SPvhpvyW-NyeZugI8BfNg&usqp=CAU"
   },
+  {
+     "name" : "Pubg 1000 Uc",
+    "price" : "290000",
+    "purl" : "https://gametame.com/img/UC.png"
+  },
+
   {
      "name" : "Pubg 300 Uc",
     "price" : "75000",
