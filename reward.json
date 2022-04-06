@@ -1,57 +1,92 @@
 [
   {
    "name" : "TT Haftalık 2 GB",
-    "price" : "40000",
+    "price" : "60000",
     "purl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmppBbW2V4-DFoduhohj__lC9-fUCogkJUhg&usqp=CAU"
   },
   {
      "name" : "Papara 50 TL",
-    "price" : "120000",
+    "price" : "130000",
     "purl" : "https://www.alternatifle.com/wp-content/uploads/2019/08/papara.png"
+  },
+   {
+     "name" : "Steam 20 TL",
+    "price" : "60000",
+    "purl" : "https://upload.wikimedia.org/wikipedia/commons/c/c1/Steam_Logo.png"
+  },
+   {
+     "name" : "Bimcell 40 TL Kontör",
+    "price" : "110000",
+    "purl" : "https://www.alternatifle.com/wp-content/uploads/2019/08/papara.png"
+  },
+    {
+     "name" : "Turkcell 40 TL Kontör",
+    "price" : "110000",
+    "purl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlrlIUxNaM0f4DFuLtfyNAE-MZeZV4SlBkUw&usqp=CAU"
+  },
+    {
+     "name" : "Türk Telekom 40 TL Kontör",
+    "price" : "110000",
+    "purl" : "https://www.turktelekom.com.tr/assets/img/turk-telekom-og-image.jpg"
+  },
+     {
+     "name" : "1 Fidan Bağışı OgemVak",
+    "price" : "30000",
+    "purl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4zoBgbv-V3ckhe9Yg2gP6rlnVuL1BEBBvmQ&usqp=CAU"
+  },
+  {
+     "name" : "TWS i12 Kulaklık ",
+    "price" : "300000",
+    "purl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS_uS-tcATxhooet-NGEeixGdW8UrqtZkuJg&usqp=CAU"
+  },
+   {
+     "name" : "20 TL Minik Dostlara Yardım",
+    "price" : "60000",
+    "purl" : "https://cdn1.yuvarla.com/img/blob_1519242580323.png"
   },
   {
      "name" : "TT Haftalık 1 GB",
-    "price" : "20000",
+    "price" : "30000",
     "purl" : "https://bireysel.turktelekom.com.tr/mobil/web/kampanyalar/PublishingImages/1-haftalik-1gb-list.jpg"
   },
   {
    "name" : "Iban 50 TL",
-    "price" : "120000",
+    "price" : "130000",
     "purl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2IV2Y6DESpwHj3Lq0nLQmzVb02tIavm27ig&usqp=CAU"
   },
   {
      "name" : "Ininal 20 TL",
-    "price" : "50000",
+    "price" : "60000",
     "purl" : "https://pbs.twimg.com/profile_images/910477288650747905/dj4IUhj1.jpg"
   },
   {
     "name" : "Zula 3000 Altın",
-    "price" : "50000",
+    "price" : "60000",
     "purl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfiInbg8c1i8AYIeko0S-PvIFkGB4lvzzFZg&usqp=CAU"
   },
   {
   "name" : "Papara 20 TL",
-    "price" : "50000",
+    "price" : "60000",
     "purl" : "https://www.alternatifle.com/wp-content/uploads/2019/08/papara.png"
    },
   {
      "name" : "25TL Gift Card",
-    "price" : "55000",
+    "price" : "65000",
     "purl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3OJgQCeWqhl527SPvhpvyW-NyeZugI8BfNg&usqp=CAU"
   },
   {
      "name" : "Pubg 300 Uc",
-    "price" : "75000",
+    "price" : "85000",
     "purl" : "https://gametame.com/img/UC.png"
   },
   {
   "name" : "Iban 20 TL",
-    "price" : "50000",
+    "price" : "60000",
     "purl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2IV2Y6DESpwHj3Lq0nLQmzVb02tIavm27ig&usqp=CAU"
   },
   {
    "name" : "Zula 6000 Altın",
-    "price" : "100000",
+    "price" : "115000",
     "purl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfiInbg8c1i8AYIeko0S-PvIFkGB4lvzzFZg&usqp=CAU"
   }
 ]
