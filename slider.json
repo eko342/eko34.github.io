@@ -68,5 +68,34 @@
      "slider_image_link_others" : "Application active",
     "slider_show" : "hide",
       "slider_type" : "link"
+  },
+  {
+     "slider_id" : "7",
+    "slider_image" : "https://media.istockphoto.com/vectors/earn-points-for-purchase-loyalty-program-reward-concept-full-shopping-vector-id1147041691?k=20&m=1147041691&s=612x612&w=0&h=5tLYESrgOn8-k-r4qe1PHIQpLHBOTbMKvacvQNw_FHM=",
+    "slider_image_description" : "Puan ile ödül kazan!",
+     "slider_image_description_others" : "Collect and win!",
+    "slider_image_link" : "Puan toplayarak cüzdandan ödüller alabilir veya bu puanları hayır kurumlarına hediye edebilirsiniz! :)",
+     "slider_image_link_others" : "By collecting points you can get rewards from the wallet or gift these points to charities! :)",
+    "slider_show" : "show",
+      "slider_type" : "info"
+  },
+  {
+     "slider_id" : "8",
+    "slider_image" : "https://media.istockphoto.com/vectors/secure-mobile-payment-money-transfer-or-online-finance-concept-with-vector-id1289151420?k=20&m=1289151420&s=612x612&w=0&h=lCC9TsGXbyDybRu7If-_RTcKSjKXFqq_y17htjxduBQ=",
+    "slider_image_description" : "Ödemeler Hakkında",
+     "slider_image_description_others" : "About Payments",
+    "slider_image_link" : "Ödemeler her ayın 20-25'i arasında yapılır ve kullanıcılar uygulama üzerinden bilgilendirilir. Hile veya haksız kazanç tespit edilmesi halinde ödeme yapılmaz ve hesap sınırsız şekilde engellenir.",
+     "slider_image_link_others" : "Payments are made between the 20th and 25th of each month and users are informed through the application. If cheating or unfair profit is detected, no payment will be made and the account will be blocked indefinitely.",
+    "slider_show" : "show",
+      "slider_type" : "info"
+  },
+    "slider_id" : "9",
+    "slider_image" : "https-payment-money-transfer-or-online-finance-conor?k=20&m=1289151420&s=612x612&w=0&h=lCC9TsGXbyDybRu7If-_RTcKSjKXFqq_y17htjxduBQ=",
+    "slider_image_description" : "Ödemeler Hakkında",
+     "slider_image_description_others" : "About Payments",
+    "slider_image_link" : "https://",
+     "slider_image_link_others" : "https://",
+    "slider_show" : "hide",
+      "slider_type" : "link"
   }
 ]
