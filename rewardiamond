@@ -1,0 +1,102 @@
+[
+  {
+     "name" : "1 Fidan",
+    "price" : "25",
+    "purl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4zoBgbv-V3ckhe9Yg2gP6rlnVuL1BEBBvmQ&usqp=CAU"
+  },
+    {
+     "name" : "20 TL Mama",
+    "price" : "55",
+    "purl" : "https://assets.change.org/photos/8/lc/ql/aQLcQLfLRPFFKtx-800x450-noPad.jpg?1513979191"
+  },
+  {
+     "name" : "TT Haftalık 1 GB",
+    "price" : "30",
+    "purl" : "https://bireysel.turktelekom.com.tr/mobil/web/kampanyalar/PublishingImages/1-haftalik-1gb-list.jpg"
+  },
+  {
+   "name" : "TT Haftalık 2 GB",
+    "price" : "60",
+    "purl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmppBbW2V4-DFoduhohj__lC9-fUCogkJUhg&usqp=CAU"
+  },
+   {
+     "name" : "Bimcell 40 TL",
+    "price" : "110",
+    "purl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUtRoAAo2hPoTut5JR4hntzD6ImMpO26b7mg&usqp=CAU"
+  },
+    {
+     "name" : "Turkcell 40 TL",
+    "price" : "110",
+    "purl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlrlIUxNaM0f4DFuLtfyNAE-MZeZV4SlBkUw&usqp=CAU"
+  },
+    {
+     "name" : "Türk T. 40 TL",
+    "price" : "110",
+    "purl" : "https://www.turktelekom.com.tr/assets/img/turk-telekom-og-image.jpg"
+  },
+  {
+     "name" : "Ininal 20 TL",
+    "price" : "60",
+    "purl" : "https://pbs.twimg.com/profile_images/910477288650747905/dj4IUhj1.jpg"
+  },
+   {
+     "name" : "Ininal 50 TL",
+    "price" : "150",
+    "purl" : "https://pbs.twimg.com/profile_images/910477288650747905/dj4IUhj1.jpg"
+  },
+  {
+  "name" : "Papara 20 TL",
+    "price" : "60",
+    "purl" : "https://playapkmod.com/files/2021/11/Download-Papara.png"
+   },
+  {
+  "name" : "Papara 50 TL",
+    "price" : "150",
+    "purl" : "https://playapkmod.com/files/2021/11/Download-Papara.png"
+   },
+  {
+  "name" : "Iban 20 TL",
+    "price" : "60",
+    "purl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2IV2Y6DESpwHj3Lq0nLQmzVb02tIavm27ig&usqp=CAU"
+  },
+  {
+   "name" : "Iban 50 TL",
+    "price" : "150",
+    "purl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2IV2Y6DESpwHj3Lq0nLQmzVb02tIavm27ig&usqp=CAU"
+  },
+    {
+     "name" : "Steam 20 TL",
+    "price" : "60",
+    "purl" : "https://upload.wikimedia.org/wikipedia/commons/c/c1/Steam_Logo.png"
+  },
+   {
+     "name" : "Steam 50 TL",
+    "price" : "150",
+    "purl" : "https://upload.wikimedia.org/wikipedia/commons/c/c1/Steam_Logo.png"
+  },
+  {
+     "name" : "25TL Gift Card",
+    "price" : "65",
+    "purl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3OJgQCeWqhl527SPvhpvyW-NyeZugI8BfNg&usqp=CAU"
+  },
+  {
+     "name" : "Pubg 300 Uc",
+    "price" : "85",
+    "purl" : "https://gametame.com/img/UC.png"
+  },
+  {
+    "name" : "Zula 3000 Altın",
+    "price" : "60",
+    "purl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfiInbg8c1i8AYIeko0S-PvIFkGB4lvzzFZg&usqp=CAU"
+  },
+  {
+   "name" : "Zula 6000 Altın",
+    "price" : "120",
+    "purl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfiInbg8c1i8AYIeko0S-PvIFkGB4lvzzFZg&usqp=CAU"
+  },
+  {
+     "name" : "TWS i12 Kulaklık ",
+    "price" : "300",
+    "purl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS_uS-tcATxhooet-NGEeixGdW8UrqtZkuJg&usqp=CAU"
+  }
+]
