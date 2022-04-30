@@ -17,7 +17,7 @@
     "slider_image_link" : "10",
      "slider_image_link_others" : "10",
     "slider_show" : "show",
-    "slider_type" : "spinb4344c" 
+    "slider_type" : "spinb43444c" 
   },
   {
      "slider_id" : "2",
@@ -27,7 +27,7 @@
      "slider_image_link" : "5",
       "slider_image_link_others" : "Application active ",
     "slider_show" : "show",
-    "slider_type" : "scratch"
+    "slider_type" : "scratfch"
   },
   {
      "slider_id" : "3",
@@ -36,7 +36,7 @@
      "slider_image_description_others" : "Application active.",
      "slider_image_link" : "500",
       "slider_image_link_others" : "Application active ",
-    "slider_show" : "show",
+    "slider_show" : "hide",
     "slider_type" : "scratchpoint"
   },
    {
