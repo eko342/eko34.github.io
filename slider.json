@@ -12,12 +12,12 @@
   {
    "slider_id" : "1",
     "slider_image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdqcTgf1S1rt842HtpBty1T_N4CyeJPdiNQi7vAuLuSJEvOcXFA3Q0Bte0if34YU3bxGo&usqp=CAU",
-    "slider_image_description" : "10 Çark Hakkı Hediye!",
-    "slider_image_description_others" : "10 Spin right Free!",
-    "slider_image_link" : "10",
-     "slider_image_link_others" : "10",
-    "slider_show" : "hide",
-    "slider_type" : "spinb434444c" 
+    "slider_image_description" : "25 Çark Hakkı Hediye!",
+    "slider_image_description_others" : "25 Spin right Free!",
+    "slider_image_link" : "25",
+     "slider_image_link_others" : "25",
+    "slider_show" : "show",
+    "slider_type" : "spinb4434444c" 
   },
   {
      "slider_id" : "2",
