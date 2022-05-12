@@ -1,10 +1,10 @@
 [
   {
    "slider_id" : "0",
-    "slider_image" : "https://media.istockphoto.com/vectors/brand-ambassador-line-icon-holding-megaphone-sign-advertisement-vector-id1165541225?k=20&m=1165541225&s=612x612&w=0&h=juOW3B079dJYOWaP6o6mrTzAfdBJeRyyMv8CrvC3cak=",
+    "slider_image" : "https://bestof.ae/wp-content/uploads/2021/12/earn-money-online-in-uae.png",
     "slider_image_description" : "Bilgi için tıkla",
      "slider_image_description_others" : "Invite your friend and earn",
-    "slider_image_link" : "Arkadaşlarını davet ederek puan kazanabilirsin! Arkadaşın kayıt olduktan sonra senin referans kodunu anasayfada açılacak olan mesaj kutusuna yazmalıdır. Profilim veya görevler sayfasına bakmayı unutma! ",
+    "slider_image_link" : "Reklam kazancımızı arttırmamıza yardım ederek size daha az puan gerektiren elmaslar vermemizi sağlayabilirsiniz.",
     "slider_image_link_others" : "You can earn point,lets invite them! :) Don't forget to check out my profile or tasks page!",
      "slider_show" : "show",
       "slider_type" : "info"
@@ -16,7 +16,7 @@
     "slider_image_description_others" : "25 Spin right Free!",
     "slider_image_link" : "25",
      "slider_image_link_others" : "25",
-    "slider_show" : "show",
+    "slider_show" : "hide",
     "slider_type" : "spinb4434444c" 
   },
   {
@@ -26,7 +26,7 @@
      "slider_image_description_others" : "Application Active!",
      "slider_image_link" : "5",
       "slider_image_link_others" : "Application active ",
-    "slider_show" : "show",
+    "slider_show" : "hide",
     "slider_type" : "scratfch"
   },
   {
