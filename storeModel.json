@@ -1,97 +1,97 @@
 [
   {
     "name" : "100X Çark Hakkı",
-    "price" : "25",
+    "price" : "3,79TRY",
     "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/app%2Fspin.png?alt=media&token=ccc1ebd0-96cc-4b02-993c-721df6799a6b",
     "id" : "premium_145"
   },
     {
      "name" : "250X Çark Hakkı",
-    "price" : "25",
+    "price" : "10,49TRY",
     "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/app%2Fspin.png?alt=media&token=ccc1ebd0-96cc-4b02-993c-721df6799a6b",
     "id" : "premium_29"
   },
   {
     "name" : "500X Çark Hakkı",
-    "price" : "25",
+    "price" : "19,49TRY",
     "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/app%2Fspin.png?alt=media&token=ccc1ebd0-96cc-4b02-993c-721df6799a6b",
     "id" : "premium_334"
   },
     {
      "name" : "1000X Çark Hakkı",
-    "price" : "25",
+    "price" : "37,49TRY",
     "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/app%2Fspin.png?alt=media&token=ccc1ebd0-96cc-4b02-993c-721df6799a6b",
     "id" : "premium_825"
   },
     {
     "name" : "100X Kazı Kazan",
-    "price" : "25",
+    "price" : "3,79TRY",
     "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/app%2Fbtn.png?alt=media&token=b16f7a4f-0a44-4540-82e4-6a51551cf05c",
     "id" : "premium_145"
   },
     {
      "name" : "250X Kazı Kazan",
-    "price" : "25",
+    "price" : "10,49TRY",
     "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/app%2Fbtn.png?alt=media&token=b16f7a4f-0a44-4540-82e4-6a51551cf05c",
     "id" : "premium_29"
   },
   {
     "name" : "500X Kazı Kazan",
-    "price" : "25",
+    "price" : "51,90TRY",
     "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/app%2Fbtn.png?alt=media&token=b16f7a4f-0a44-4540-82e4-6a51551cf05c",
     "id" : "premium_334"
   },
     {
      "name" : "1000X Kazı Kazan",
-    "price" : "25",
+    "price" : "37,49TRY",
     "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/app%2Fbtn.png?alt=media&token=b16f7a4f-0a44-4540-82e4-6a51551cf05c",
     "id" : "premium_825"
   },
     {
-    "name" : "100X Joker",
-    "price" : "25",
+    "name" : "50X Joker",
+    "price" : "6,79TRY",
     "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/app%2Fdiamondd.png?alt=media&token=4cf2090d-e2fd-4632-b34c-037810e66efd",
     "id" : "premium_1434"
   },
     {
      "name" : "250X Joker",
-    "price" : "25",
+    "price" : "32,49TRY",
     "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/app%2Fdiamondd.png?alt=media&token=4cf2090d-e2fd-4632-b34c-037810e66efd",
     "id" : "premium_2545"
   },
   {
     "name" : "500X Joker",
-    "price" : "25",
+    "price" : "63,49TRY",
     "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/app%2Fdiamondd.png?alt=media&token=4cf2090d-e2fd-4632-b34c-037810e66efd",
     "id" : "premium_3662"
   },
     {
      "name" : "1000X Joker",
-    "price" : "25",
+    "price" : "12,49TRY",
     "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/app%2Fdiamondd.png?alt=media&token=4cf2090d-e2fd-4632-b34c-037810e66efd",
     "id" : "premium_0594"
   },
    {
-    "name" : "100X Çift Puan",
-    "price" : "25",
+    "name" : "50X Çift Puan",
+    "price" : "13,49TRY",
     "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/app%2Ficon_x2point.png?alt=media&token=0704113b-8d8a-4a29-b5cd-0dbfbfe6650a",
     "id" : "premium_4548"
   },
     {
      "name" : "250X Çift Puan",
-    "price" : "25",
+    "price" : "12,49TRY",
     "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/app%2Ficon_x2point.png?alt=media&token=0704113b-8d8a-4a29-b5cd-0dbfbfe6650a",
     "id" : "premium_7544"
   },
   {
     "name" : "500X Çift Puan",
-    "price" : "25",
+    "price" : "12,49TRY",
     "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/app%2Ficon_x2point.png?alt=media&token=0704113b-8d8a-4a29-b5cd-0dbfbfe6650a",
     "id" : "premium_3494"
   },
     {
      "name" : "1000X Çift Puan",
-    "price" : "25",
+    "price" : "103,49TRY",
     "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/app%2Ficon_x2point.png?alt=media&token=0704113b-8d8a-4a29-b5cd-0dbfbfe6650a",
     "id" : "premium_2524"
   }
