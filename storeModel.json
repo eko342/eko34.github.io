@@ -1,98 +1,98 @@
 [
   {
-    "name" : "100X Spin",
-    "price" : "25",
+    "product" : "100X Spin",
+    "ptPrice" : "25",
     "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/app%2Fspin.png?alt=media&token=ccc1ebd0-96cc-4b02-993c-721df6799a6b",
-    "id" : "premium_145"
+    "pid" : "premium_145"
   },
     {
-     "name" : "250X Spin",
-    "price" : "25",
+     "product" : "250X Spin",
+    "ptPrice" : "25",
     "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/app%2Fspin.png?alt=media&token=ccc1ebd0-96cc-4b02-993c-721df6799a6b",
-    "id" : "premium_29"
+    "pid" : "premium_29"
   },
   {
-    "name" : "500X Spin",
-    "price" : "25",
+    "product" : "500X Spin",
+    "ptPrice" : "25",
     "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/app%2Fspin.png?alt=media&token=ccc1ebd0-96cc-4b02-993c-721df6799a6b",
-    "id" : "premium_334"
+    "pid" : "premium_334"
   },
     {
-     "name" : "1000X Spin",
-    "price" : "25",
+     "product" : "1000X Spin",
+    "ptPrice" : "25",
     "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/app%2Fspin.png?alt=media&token=ccc1ebd0-96cc-4b02-993c-721df6799a6b",
-    "id" : "premium_825"
+    "pid" : "premium_825"
   },
     {
-    "name" : "100X Scratch",
-    "price" : "25",
+    "product" : "100X Scratch",
+    "ptPrice" : "25",
     "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/app%2Fbtn.png?alt=media&token=b16f7a4f-0a44-4540-82e4-6a51551cf05c",
-    "id" : "premium_145"
+    "pid" : "premium_145"
   },
     {
-     "name" : "250X Scratch",
-    "price" : "25",
+     "product" : "250X Scratch",
+    "ptPrice" : "25",
     "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/app%2Fbtn.png?alt=media&token=b16f7a4f-0a44-4540-82e4-6a51551cf05c",
-    "id" : "premium_29"
+    "pid" : "premium_29"
   },
   {
-    "name" : "500X Scratch",
-    "price" : "25",
+    "product" : "500X Scratch",
+    "ptPrice" : "25",
     "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/app%2Fbtn.png?alt=media&token=b16f7a4f-0a44-4540-82e4-6a51551cf05c",
-    "id" : "premium_334"
+    "pid" : "premium_334"
   },
     {
-     "name" : "1000X Scratch",
-    "price" : "25",
+     "product" : "1000X Scratch",
+    "ptPrice" : "25",
     "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/app%2Fbtn.png?alt=media&token=b16f7a4f-0a44-4540-82e4-6a51551cf05c",
-    "id" : "premium_825"
+    "pid" : "premium_825"
   },
     {
-    "name" : "100X Joker",
-    "price" : "25",
+    "product" : "100X Joker",
+    "ptPrice" : "25",
     "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/app%2Fdiamondd.png?alt=media&token=4cf2090d-e2fd-4632-b34c-037810e66efd",
-    "id" : "premium_1434"
+    "pid" : "premium_1434"
   },
     {
-     "name" : "250X Joker",
-    "price" : "25",
+     "product" : "250X Joker",
+    "ptPrice" : "25",
     "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/app%2Fdiamondd.png?alt=media&token=4cf2090d-e2fd-4632-b34c-037810e66efd",
-    "id" : "premium_2545"
+    "pid" : "premium_2545"
   },
   {
-    "name" : "500X Joker",
-    "price" : "25",
+    "product" : "500X Joker",
+    "ptPrice" : "25",
     "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/app%2Fdiamondd.png?alt=media&token=4cf2090d-e2fd-4632-b34c-037810e66efd",
-    "id" : "premium_3662"
+    "pid" : "premium_3662"
   },
     {
-     "name" : "1000X Joker",
-    "price" : "25",
+     "product" : "1000X Joker",
+    "ptPrice" : "25",
     "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/app%2Fdiamondd.png?alt=media&token=4cf2090d-e2fd-4632-b34c-037810e66efd",
-    "id" : "premium_0594"
+    "pid" : "premium_0594"
   },
    {
-    "name" : "100X Double Point",
-    "price" : "25",
+    "product" : "100X Double Point",
+    "ptPrice" : "25",
     "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/app%2Ficon_x2point.png?alt=media&token=0704113b-8d8a-4a29-b5cd-0dbfbfe6650a",
-    "id" : "premium_4548"
+    "pid" : "premium_4548"
   },
     {
-     "name" : "250X Double Point",
-    "price" : "25",
+     "product" : "250X Double Point",
+    "ptPrice" : "25",
     "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/app%2Ficon_x2point.png?alt=media&token=0704113b-8d8a-4a29-b5cd-0dbfbfe6650a",
-    "id" : "premium_7544"
+    "pid" : "premium_7544"
   },
   {
-    "name" : "500X Double Point",
-    "price" : "25",
+    "product" : "500X Double Point",
+    "ptPrice" : "25",
     "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/app%2Ficon_x2point.png?alt=media&token=0704113b-8d8a-4a29-b5cd-0dbfbfe6650a",
-    "id" : "premium_3494"
+    "pid" : "premium_3494"
   },
     {
-     "name" : "1000X Double Point",
-    "price" : "25",
+     "product" : "1000X Double Point",
+    "ptPrice" : "25",
     "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/app%2Ficon_x2point.png?alt=media&token=0704113b-8d8a-4a29-b5cd-0dbfbfe6650a",
-    "id" : "premium_2524"
+    "pid" : "premium_2524"
   }
 ]
