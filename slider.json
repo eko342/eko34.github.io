@@ -1,7 +1,7 @@
 [
   {
    "slider_id" : "0",
-    "slider_image" : "https://media.istockphoto.com/id/1128182967/vector/opened-isometric-wallet-filled-with-money-coins-credit-cards-pouch-and-banknotes-clip.jpg?s=612x612&w=0&k=20&c=zvY-pGgG6X-HyKEs9uM4Anb5s4tGDC-SUPvSZp_WUHM=",
+    "slider_image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1p6OIW9J8yqtQNLDbx_sFEjLIcpdzcb9etA&usqp=CAU",
     "slider_image_description" : "Bilgi için tıkla",
      "slider_image_description_others" : "Invite your friend and earn",
     "slider_image_link" : "Reklam kazancımızı arttırmamıza yardım ederek size daha az puan gerektiren elmaslar vermemizi sağlayabilirsiniz.",
@@ -12,12 +12,12 @@
   {
    "slider_id" : "1",
     "slider_image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdqcTgf1S1rt842HtpBty1T_N4CyeJPdiNQi7vAuLuSJEvOcXFA3Q0Bte0if34YU3bxGo&usqp=CAU",
-    "slider_image_description" : "25 Çark Hakkı Hediye!",
-    "slider_image_description_others" : "25 Spin right Free!",
-    "slider_image_link" : "25",
-     "slider_image_link_others" : "25",
-    "slider_show" : "hide",
-    "slider_type" : "spinb4434444c" 
+    "slider_image_description" : "10 Çark Hakkı Hediye!",
+    "slider_image_description_others" : "10 Spin right Free!",
+    "slider_image_link" : "10",
+     "slider_image_link_others" : "10",
+    "slider_show" : "show",
+    "slider_type" : "spinb443449c" 
   },
   {
      "slider_id" : "2",
@@ -71,17 +71,17 @@
   },
   {
      "slider_id" : "7",
-    "slider_image" : "https://www.ravedigital.agency/wp-content/uploads/2017/08/loyalty_rewards_program_2.jpg",
-    "slider_image_description" : "Puan ile ödül kazan!",
+    "slider_image" : "https://media.istockphoto.com/id/1217829052/vector/vector-flat-illustration-refer-a-friend-affiliate-partnership-and-earn-money-marketing.jpg?s=612x612&w=0&k=20&c=1zLYgy360ayryj3NoeliPzVT_D-TptuQXWpRHLvKmWg=",
+    "slider_image_description" : "Arkadaş Davet Et!",
      "slider_image_description_others" : "Collect and win!",
-    "slider_image_link" : "Puan toplayarak cüzdandan ödüller alabilir veya bu puanları hayır kurumlarına hediye edebilirsiniz! :)",
+    "slider_image_link" : "Arkadaşlarını davet ederek puan kazanabilirsin, arkadaşını davet et sayfasından davet etmeyi unutma! :)",
      "slider_image_link_others" : "By collecting points you can get rewards from the wallet or gift these points to charities! :)",
     "slider_show" : "show",
       "slider_type" : "info"
   },
   {
      "slider_id" : "8",
-    "slider_image" : "https://us.123rf.com/450wm/blankstock/blankstock1910/blankstock191003826/132677323-cliquez-ici-ic%C3%B4ne-de-ligne-motif-en-demi-teintes-appuyez-sur-le-signe-du-bouton-symbole-du-curseur-w.jpg?ver=6",
+    "slider_image" : "https://static.vecteezy.com/system/resources/thumbnails/020/024/272/small/deposit-illustration-vector.jpg",
     "slider_image_description" : "Ödemeler Hakkında",
      "slider_image_description_others" : "About Payments",
     "slider_image_link" : "Ödemeler her ayın 20-25'i arasında yapılır ve kullanıcılar uygulama üzerinden bilgilendirilir. Hile veya haksız kazanç tespit edilmesi halinde ödeme yapılmaz ve hesap sınırsız şekilde engellenir.",
