@@ -1,25 +1,25 @@
 [
   {
     "product" : "100X Spin",
-    "ptPrice" : "25 TRY",
+    "ptPrice" : "TRY 3,79",
     "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/app%2Fspin.png?alt=media&token=ccc1ebd0-96cc-4b02-993c-721df6799a6b",
     "pid" : "premium_145"
   },
     {
      "product" : "250X Spin",
-    "ptPrice" : "25",
+    "ptPrice" : "TRY 10,49",
     "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/app%2Fspin.png?alt=media&token=ccc1ebd0-96cc-4b02-993c-721df6799a6b",
     "pid" : "premium_29"
   },
   {
     "product" : "500X Spin",
-    "ptPrice" : "25",
+    "ptPrice" : "TRY 19,49",
     "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/app%2Fspin.png?alt=media&token=ccc1ebd0-96cc-4b02-993c-721df6799a6b",
     "pid" : "premium_334"
   },
     {
      "product" : "1000X Spin",
-    "ptPrice" : "25",
+    "ptPrice" : "TRY 37,49",
     "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/app%2Fspin.png?alt=media&token=ccc1ebd0-96cc-4b02-993c-721df6799a6b",
     "pid" : "premium_825"
   },
