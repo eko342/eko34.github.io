@@ -37,7 +37,7 @@
     "firstData":"userSpin",
     "firstValue": "500",
     "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/app%2Fspin.png?alt=media&token=ccc1ebd0-96cc-4b02-993c-721df6799a6b",
-    "pid" : "premium_825"
+    "pid" : "premium_334"
   },
     {
      "product" : "1000X Spin",
@@ -45,39 +45,39 @@
     "firstData":"userSpin",
     "firstValue": "1000",
     "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/app%2Fspin.png?alt=media&token=ccc1ebd0-96cc-4b02-993c-721df6799a6b",
-    "pid" : "premium_405"
+    "pid" : "premium_825"
   },
     {
-    "product" : "100X Scratch",
+    "product" : "50X Scratch",
     "ptPrice" : "TRY 21,99",
     "firstData":"userScratch",
-    "firstValue": "100",
+    "firstValue": "50",
     "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/app%2Fbtn.png?alt=media&token=b16f7a4f-0a44-4540-82e4-6a51551cf05c",
-    "pid" : "premium_145"
+    "pid" : "premium_13"
   },
     {
-     "product" : "250X Scratch",
+     "product" : "200X Scratch",
     "ptPrice" : "TRY 40,99",
     "firstData":"userScratch",
-    "firstValue": "250",
+    "firstValue": "200",
     "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/app%2Fbtn.png?alt=media&token=b16f7a4f-0a44-4540-82e4-6a51551cf05c",
-    "pid" : "premium_29"
+    "pid" : "premium_24"
   },
   {
-    "product" : "500X Scratch",
+    "product" : "400X Scratch",
     "ptPrice" : "TRY 80,99",
     "firstData":"userScratch",
-    "firstValue": "500",
+    "firstValue": "400",
     "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/app%2Fbtn.png?alt=media&token=b16f7a4f-0a44-4540-82e4-6a51551cf05c",
-    "pid" : "premium_334"
+    "pid" : "premium_36"
   },
     {
-     "product" : "1000X Scratch",
+     "product" : "800X Scratch",
     "ptPrice" : "TRY 159,99",
     "firstData":"userScratch",
-    "firstValue": "1000",
+    "firstValue": "800",
     "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/app%2Fbtn.png?alt=media&token=b16f7a4f-0a44-4540-82e4-6a51551cf05c",
-    "pid" : "premium_405"
+    "pid" : "premium_92"
   },
     {
     "product" : "50X Joker",
@@ -109,7 +109,7 @@
     "firstData":"userJoker",
     "firstValue": "1000",
     "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/app%2Fdiamondd.png?alt=media&token=4cf2090d-e2fd-4632-b34c-037810e66efd",
-    "pid" : "premium_405"
+    "pid" : "premium_0594"
   },
    {
     "product" : "50X DP",
