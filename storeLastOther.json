@@ -1,5 +1,21 @@
 [
   {
+    "product" : "1X Chance Spin",
+    "ptPrice" : "TRY 44,99",
+    "firstData":"userChanceSpin",
+    "firstValue": "1",
+    "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/app%2Fspin.png?alt=media&token=ccc1ebd0-96cc-4b02-993c-721df6799a6b",
+    "pid" : "premium_405"
+  },
+   {
+    "product" : "1X Chance Scratch",
+    "ptPrice" : "TRY 44,99",
+    "firstData":"userChanceScratch",
+    "firstValue": "1",
+    "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/app%2Fbtn.png?alt=media&token=b16f7a4f-0a44-4540-82e4-6a51551cf05c",
+    "pid" : "premium_943"
+  },
+  {
     "product" : "100X Spin",
     "ptPrice" : "TRY 11,99",
     "firstData":"userSpin",
