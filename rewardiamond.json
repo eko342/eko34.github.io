@@ -19,6 +19,21 @@
     "price" : "50",
     "purl" : "https://productimages.hepsiburada.net/s/80/375/110000021777819.jpg"
   },
+   {
+     "name" : "Netflix 100 TL",
+    "price" : "110",
+    "purl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/app%2FEkran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202023-05-22%20110539.png?alt=media&token=0d45ea0f-bb52-4a73-a7df-5fd90c709049"
+  },
+   {
+     "name" : "Blutv 25 TL",
+    "price" : "25",
+    "purl" : "https://cdn.dsmcdn.com/ty399/product/media/images/20220415/16/92657531/83401900/2/2_org_zoom.jpeg"
+  },
+   {
+     "name" : "Yemeksepeti 50 TL",
+    "price" : "55",
+    "purl" : "https://productimages.hepsiburada.net/s/309/550/110000301949267.jpg/format:webp"
+  },
   {
      "name" : "TT Haftalık 1 GB",
     "price" : "35",
