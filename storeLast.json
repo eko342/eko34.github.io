@@ -55,6 +55,14 @@
     "imageUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDbBXhXEUSNVwRZqgi2V5v6-KHU88Jx2Aj-Q&usqp=CAU",
     "pid" : "premium_825"
   },
+  {
+    "product" : "50X Scratch",
+    "ptPrice" : "TRY 12,99",
+    "firstData":"userSpin",
+    "firstValue": "50",
+    "imageUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDbBXhXEUSNVwRZqgi2V5v6-KHU88Jx2Aj-Q&usqp=CAU",
+    "pid" : "premium_232492"
+  },
     {
     "product" : "100X Scratch",
     "ptPrice" : "TRY 21,99",
