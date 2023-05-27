@@ -72,26 +72,26 @@
     "pid" : "premium_13"
   },
     {
-     "product" : "200X Scratch",
+     "product" : "200X+50X Scratch",
     "ptPrice" : "TRY 40,99",
     "firstData":"userScratch",
-    "firstValue": "200",
+    "firstValue": "250",
     "imageUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcdbNgvpB70UyrbOUv0htW5u3ThxNIfP6jjA&usqp=CAU",
     "pid" : "premium_24"
   },
   {
-    "product" : "400X Scratch",
+    "product" : "400+50X Scratch",
     "ptPrice" : "TRY 80,99",
     "firstData":"userScratch",
-    "firstValue": "400",
+    "firstValue": "450",
     "imageUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcdbNgvpB70UyrbOUv0htW5u3ThxNIfP6jjA&usqp=CAU",
     "pid" : "premium_36"
   },
     {
-     "product" : "800X Scratch",
+     "product" : "800+150X Scratch",
     "ptPrice" : "TRY 159,99",
     "firstData":"userScratch",
-    "firstValue": "800",
+    "firstValue": "950",
     "imageUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcdbNgvpB70UyrbOUv0htW5u3ThxNIfP6jjA&usqp=CAU",
     "pid" : "premium_92"
   },
