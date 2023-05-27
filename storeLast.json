@@ -16,15 +16,15 @@
     "pid" : "premium_943"
   },
   {
-    "product" : "50X Spin",
+    "product" : "50+10X Spin",
     "ptPrice" : "TRY 6,99",
     "firstData":"userSpin",
-    "firstValue": "50",
+    "firstValue": "60",
     "imageUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDbBXhXEUSNVwRZqgi2V5v6-KHU88Jx2Aj-Q&usqp=CAU",
     "pid" : "premium_23049"
   },
   {
-    "product" : "100X Spin",
+    "product" : "100+15X Spin",
     "ptPrice" : "TRY 11,99",
     "firstData":"userSpin",
     "firstValue": "100",
@@ -32,7 +32,7 @@
     "pid" : "premium_1445"
   },
     {
-     "product" : "250X Spin",
+     "product" : "250+25X Spin",
     "ptPrice" : "TRY 27,99",
     "firstData":"userSpin",
     "firstValue": "250",
@@ -40,7 +40,7 @@
     "pid" : "premium_29"
   },
   {
-    "product" : "500X Spin",
+    "product" : "500+50X Spin",
     "ptPrice" : "TRY 56,99",
     "firstData":"userSpin",
     "firstValue": "500",
@@ -48,7 +48,7 @@
     "pid" : "premium_334"
   },
     {
-     "product" : "1000X Spin",
+     "product" : "1000+100X Spin",
     "ptPrice" : "TRY 109,99",
     "firstData":"userSpin",
     "firstValue": "1000",
