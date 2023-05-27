@@ -16,8 +16,8 @@
     "slider_image_description_others" : "5 Spin right Free!",
     "slider_image_link" : "5",
      "slider_image_link_others" : "5",
-    "slider_show" : "hide",
-    "slider_type" : "spinb4443449c" 
+    "slider_show" : "show",
+    "slider_type" : "spinb46449c" 
   },
   {
      "slider_id" : "2",
@@ -32,11 +32,11 @@
   {
      "slider_id" : "3",
     "slider_image" : "https://img.freepik.com/free-vector/money-gift-as-charity-donation-bonus-reward-as-cashback-prize-jackpot-lucky-win-present_212005-448.jpg?size=626&ext=jpg",
-    "slider_image_description" : "5 Joker Hediye!",
+    "slider_image_description" : "3 Joker Hediye!",
      "slider_image_description_others" : "Application active.",
-     "slider_image_link" : "5",
+     "slider_image_link" : "3",
       "slider_image_link_others" : "Application active ",
-    "slider_show" : "hide",
+    "slider_show" : "show",
     "slider_type" : "scratchpoint"
   },
    {
@@ -56,7 +56,7 @@
      "slider_image_description_others" : "Donate 1 Sapling",
     "slider_image_link" : "Şanslı Cevap uygulaması olarak çevreye biz de destek oluyoruz! Sizlerin desteğiyle onlara 1 fidan hediye ediyoruz, cüzdan bölümünden hediye edebilirsiniz :)",
      "slider_image_link_others" : "As the Lucky Answer application, we also support the environment! With your support, we are giving them 1 sapling as a gift, you can gift it from the wallet section :)",
-     "slider_show" : "hide",
+     "slider_show" : "show",
       "slider_type" : "info"
   },
   {
