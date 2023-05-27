@@ -20,8 +20,29 @@
     "purl" : "https://productimages.hepsiburada.net/s/80/375/110000021777819.jpg"
   },
    {
+     "name" : "100 TL Kod",
+    "price" : "180",
+    "purl" : "https://productimages.hepsiburada.net/s/80/375/110000021777819.jpg"
+  },
+    {
+     "name" : "250 TL Kod",
+    "price" : "450",
+    "purl" : "https://cdn.dsmcdn.com/ty734/product/media/images/20230216/15/282171656/847525505/1/1_org_zoom.jpg"
+  },
+    {
+     "name" : "500 TL Kod",
+    "price" : "900",
+    "purl" : "https://productimages.hepsiburada.net/s/80/375/110000021777819.jpg"
+  },
+
+   {
      "name" : "Netflix 100 TL",
     "price" : "100",
+    "purl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/app%2FEkran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202023-05-22%20110539.png?alt=media&token=0d45ea0f-bb52-4a73-a7df-5fd90c709049"
+  },
+  {
+     "name" : "Netflix 200 TL",
+    "price" : "200",
     "purl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/app%2FEkran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202023-05-22%20110539.png?alt=media&token=0d45ea0f-bb52-4a73-a7df-5fd90c709049"
   },
    {
@@ -109,6 +130,11 @@
     "price" : "145",
     "purl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2IV2Y6DESpwHj3Lq0nLQmzVb02tIavm27ig&usqp=CAU"
   },
+   {
+     "name" : "Steam 10 TL",
+    "price" : "35",
+    "purl" : "https://upload.wikimedia.org/wikipedia/commons/c/c1/Steam_Logo.png"
+  },
     {
      "name" : "Steam 20 TL",
     "price" : "60",
@@ -118,6 +144,16 @@
      "name" : "Steam 50 TL",
     "price" : "145",
     "purl" : "https://upload.wikimedia.org/wikipedia/commons/c/c1/Steam_Logo.png"
+  },
+  {
+     "name" : "Free Fire 150",
+    "price" : "30",
+    "purl" : "https://cdn.dsmcdn.com/ty412/product/media/images/20220427/14/99241220/460920258/1/1_org_zoom.jpg"
+  },
+   {
+     "name" : "Pubg 60 Uc",
+    "price" : "30",
+    "purl" : "https://gametame.com/img/UC.png"
   },
   {
      "name" : "Pubg 325 Uc",
