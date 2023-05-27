@@ -27,7 +27,7 @@
     "product" : "100+15X Spin",
     "ptPrice" : "TRY 11,99",
     "firstData":"userSpin",
-    "firstValue": "100",
+    "firstValue": "115",
     "imageUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDbBXhXEUSNVwRZqgi2V5v6-KHU88Jx2Aj-Q&usqp=CAU",
     "pid" : "premium_1445"
   },
@@ -35,7 +35,7 @@
      "product" : "250+25X Spin",
     "ptPrice" : "TRY 27,99",
     "firstData":"userSpin",
-    "firstValue": "250",
+    "firstValue": "275",
     "imageUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDbBXhXEUSNVwRZqgi2V5v6-KHU88Jx2Aj-Q&usqp=CAU",
     "pid" : "premium_29"
   },
@@ -43,31 +43,31 @@
     "product" : "500+50X Spin",
     "ptPrice" : "TRY 56,99",
     "firstData":"userSpin",
-    "firstValue": "500",
+    "firstValue": "550",
     "imageUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDbBXhXEUSNVwRZqgi2V5v6-KHU88Jx2Aj-Q&usqp=CAU",
     "pid" : "premium_334"
   },
     {
-     "product" : "1000+100X Spin",
+     "product" : "1000+250X Spin",
     "ptPrice" : "TRY 109,99",
     "firstData":"userSpin",
-    "firstValue": "1000",
+    "firstValue": "1250",
     "imageUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDbBXhXEUSNVwRZqgi2V5v6-KHU88Jx2Aj-Q&usqp=CAU",
     "pid" : "premium_825"
   },
   {
-    "product" : "50X Scratch",
+    "product" : "50+10X Scratch",
     "ptPrice" : "TRY 12,99",
     "firstData":"userSpin",
-    "firstValue": "50",
+    "firstValue": "60",
     "imageUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcdbNgvpB70UyrbOUv0htW5u3ThxNIfP6jjA&usqp=CAU",
     "pid" : "premium_232492"
   },
     {
-    "product" : "100X Scratch",
+    "product" : "100+15X Scratch",
     "ptPrice" : "TRY 21,99",
     "firstData":"userScratch",
-    "firstValue": "100",
+    "firstValue": "115",
     "imageUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcdbNgvpB70UyrbOUv0htW5u3ThxNIfP6jjA&usqp=CAU",
     "pid" : "premium_13"
   },
