@@ -24,17 +24,21 @@
     "price" : "180",
     "purl" : "https://productimages.hepsiburada.net/s/80/375/110000021777819.jpg"
   },
-    {
+   {
      "name" : "250 TL Kod",
     "price" : "450",
-    "purl" : "https://cdn.dsmcdn.com/ty734/product/media/images/20230216/15/282171656/847525505/1/1_org_zoom.jpg"
+    "purl" : "https://productimages.hepsiburada.net/s/80/375/110000021777819.jpg"
   },
     {
      "name" : "500 TL Kod",
     "price" : "900",
     "purl" : "https://productimages.hepsiburada.net/s/80/375/110000021777819.jpg"
   },
-
+  {
+     "name" : "250 TL Kod",
+    "price" : "450",
+    "purl" : "https://cdn.dsmcdn.com/ty734/product/media/images/20230216/15/282171656/847525505/1/1_org_zoom.jpg"
+  },
    {
      "name" : "Netflix 100 TL",
     "price" : "100",
@@ -68,6 +72,11 @@
    {
      "name" : "Yemeksepeti 50 TL",
     "price" : "55",
+    "purl" : "https://productimages.hepsiburada.net/s/309/550/110000301949267.jpg/format:webp"
+  },
+    {
+     "name" : "Yemeksepeti 100 TL",
+    "price" : "110",
     "purl" : "https://productimages.hepsiburada.net/s/309/550/110000301949267.jpg/format:webp"
   },
   {
