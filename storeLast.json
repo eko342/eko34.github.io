@@ -16,14 +16,6 @@
     "pid" : "premium_943"
   },
   {
-    "product" : "10X Spin",
-    "ptPrice" : "TRY 3,99",
-    "firstData":"userSpin",
-    "firstValue": "10",
-    "imageUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDbBXhXEUSNVwRZqgi2V5v6-KHU88Jx2Aj-Q&usqp=CAU",
-    "pid" : "premium_145"
-  },
-  {
     "product" : "50X Spin",
     "ptPrice" : "TRY 6,99",
     "firstData":"userSpin",
