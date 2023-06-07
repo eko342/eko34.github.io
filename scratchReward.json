@@ -1,10 +1,10 @@
 [
   {
-  "firstReward": "40000",
-  "fourthReward": "55000",
+  "firstReward": "25",
+  "fourthReward": "40",
   "maxnumber": 22,
   "minumber": 1,
-  "secReward": "60000",
-  "thirdReward": "90000"
+  "secReward": "50",
+  "thirdReward": "200"
 }
   ]
