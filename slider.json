@@ -1,12 +1,12 @@
 [
   {
    "slider_id" : "0",
-   "slider_image" : "https://cdn.publish0x.com/prod/fs/images/81c9506ae95a3f5f6088b0c236ebdc7ef481e27dc6fd2ae275e0420164bd9d14.jpg",
-   "slider_image_description" : "Bedava Elmas Kazan!",
-   "slider_image_description_others" : "Free Diamond!",
-   "slider_image_link" : "https://forms.gle/9BtLsTcJfZSXsSWp8",
-   "slider_image_link_others" : "https://forms.gle/9BtLsTcJfZSXsSWp8",
-   "slider_show" : "show",
+   "slider_image" : "https://firebasestorage.googleapis.com/v0/b/ugurlugun-4606a.appspot.com/o/Photokako-resize-sz3GA4yTz8MfL03s.png?alt=media&token=8cfa5ac2-b5a0-4213-bbb9-71ca2a468bc1&_gl=1*ibqbek*_ga*MTY0NDMzNTA4LjE2NjMxMDMzMTA.*_ga_CW55HF8NVT*MTY4NTkzMDk3Ny42NS4xLjE2ODU5MzEwNjkuMC4wLjA.",
+   "slider_image_description" : "Yeni uygulama yayında!",
+    "slider_image_description_others" : "New App Published!",
+    "slider_image_link" : "https://play.google.com/store/apps/details?id=com.ecansoftware.food",
+    "slider_image_link_others" : "https://play.google.com/store/apps/details?id=com.ecansoftware.food",
+    "slider_show" : "show",
    "slider_type" : "link"
   },
   {
@@ -92,12 +92,12 @@
   {
     
     "slider_id" : "9",
-     "slider_image" : "https://firebasestorage.googleapis.com/v0/b/ugurlugun-4606a.appspot.com/o/Photokako-resize-sz3GA4yTz8MfL03s.png?alt=media&token=8cfa5ac2-b5a0-4213-bbb9-71ca2a468bc1&_gl=1*ibqbek*_ga*MTY0NDMzNTA4LjE2NjMxMDMzMTA.*_ga_CW55HF8NVT*MTY4NTkzMDk3Ny42NS4xLjE2ODU5MzEwNjkuMC4wLjA.",
-    "slider_image_description" : "Yeni uygulama yayında!",
-     "slider_image_description_others" : "New App Published!",
-    "slider_image_link" : "https://play.google.com/store/apps/details?id=com.ecansoftware.food",
-    "slider_image_link_others" : "https://play.google.com/store/apps/details?id=com.ecansoftware.food",
-    "slider_show" : "show",
+   "slider_image" : "https://www.ravedigital.agency/wp-content/uploads/2017/08/loyalty_rewards_program_2.jpg",
+    "slider_image_description" : "Ödemeler Hakkında",
+     "slider_image_description_others" : "About Payments",
+    "slider_image_link" : "https://",
+     "slider_image_link_others" : "https://",
+    "slider_show" : "hide",
     "slider_type" : "link"
   }
 ]
