@@ -1,6 +1,6 @@
 [
   {
-    "product" : "1X Chance Spin",
+    "product" : "1X Şanslı Çark",
     "ptPrice" : "TRY 71,99",
     "firstData":"userChanceSpin",
     "firstValue": "1",
@@ -8,7 +8,7 @@
     "pid" : "premium_405"
   },
    {
-    "product" : "1X Chance Scratch",
+    "product" : "1X Şanslı Kazı",
     "ptPrice" : "TRY 52,99",
     "firstData":"userChanceScratch",
     "firstValue": "1",
@@ -16,7 +16,7 @@
     "pid" : "premium_943"
   },
   {
-    "product" : "50X Spin",
+    "product" : "50X Çark",
     "ptPrice" : "TRY 6,99",
     "firstData":"userSpin",
     "firstValue": "50",
@@ -24,7 +24,7 @@
     "pid" : "premium_23049"
   },
   {
-    "product" : "100X Spin",
+    "product" : "100X Çark",
     "ptPrice" : "TRY 11,99",
     "firstData":"userSpin",
     "firstValue": "100",
@@ -32,7 +32,7 @@
     "pid" : "premium_1445"
   },
     {
-     "product" : "250X Spin",
+     "product" : "250X Çark",
     "ptPrice" : "TRY 27,99",
     "firstData":"userSpin",
     "firstValue": "250",
@@ -40,7 +40,7 @@
     "pid" : "premium_29"
   },
   {
-    "product" : "500X Spin",
+    "product" : "500X Çark",
     "ptPrice" : "TRY 56,99",
     "firstData":"userSpin",
     "firstValue": "500",
@@ -48,7 +48,7 @@
     "pid" : "premium_334"
   },
     {
-     "product" : "1000X Spin",
+     "product" : "1000X Çark",
     "ptPrice" : "TRY 109,99",
     "firstData":"userSpin",
     "firstValue": "1000",
@@ -56,7 +56,7 @@
     "pid" : "premium_825"
   },
   {
-    "product" : "50X Scratch",
+    "product" : "50X Kazı Kazan",
     "ptPrice" : "TRY 12,99",
     "firstData":"userSpin",
     "firstValue": "50",
@@ -64,7 +64,7 @@
     "pid" : "premium_232492"
   },
     {
-    "product" : "100X Scratch",
+    "product" : "100X Kazı Kazan",
     "ptPrice" : "TRY 21,99",
     "firstData":"userScratch",
     "firstValue": "100",
@@ -72,7 +72,7 @@
     "pid" : "premium_13"
   },
     {
-     "product" : "200X Scratch",
+     "product" : "200X Kazı Kazan",
     "ptPrice" : "TRY 40,99",
     "firstData":"userScratch",
     "firstValue": "200",
@@ -80,7 +80,7 @@
     "pid" : "premium_24"
   },
   {
-    "product" : "400X Scratch",
+    "product" : "400X Kazı Kazan",
     "ptPrice" : "TRY 80,99",
     "firstData":"userScratch",
     "firstValue": "400",
@@ -88,7 +88,7 @@
     "pid" : "premium_36"
   },
     {
-     "product" : "800X Scratch",
+     "product" : "800X Kazı Kazan",
     "ptPrice" : "TRY 159,99",
     "firstData":"userScratch",
     "firstValue": "800",
@@ -136,7 +136,7 @@
     "pid" : "premium_0594"
   },
    {
-    "product" : "50X DP",
+    "product" : "50X Çift Puan",
     "ptPrice" : "TRY 46,99",
     "firstData":"userDoublePoint",
     "firstValue": "50",
@@ -144,7 +144,7 @@
     "pid" : "premium_4548"
   },
     {
-     "product" : "100X DP",
+     "product" : "100X Çift Puan",
     "ptPrice" : "TRY 88,99",
     "firstData":"userDoublePoint",
     "firstValue": "100",
@@ -152,7 +152,7 @@
     "pid" : "premium_7544"
   },
   {
-    "product" : "250X DP",
+    "product" : "250X Çift Puan",
     "ptPrice" : "TRY 174,99",
     "firstData":"userDoublePoint",
     "firstValue": "250",
@@ -160,7 +160,7 @@
     "pid" : "premium_3494"
   },
     {
-     "product" : "500X DP",
+     "product" : "500X Çift Puan",
     "ptPrice" : "TRY 339,99",
     "firstData":"userDoublePoint",
     "firstValue": "500",
