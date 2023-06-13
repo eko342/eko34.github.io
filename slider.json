@@ -1,13 +1,13 @@
 [
   {
    "slider_id" : "0",
-   "slider_image" : "https://firebasestorage.googleapis.com/v0/b/ugurlugun-4606a.appspot.com/o/Photokako-resize-sz3GA4yTz8MfL03s.png?alt=media&token=8cfa5ac2-b5a0-4213-bbb9-71ca2a468bc1&_gl=1*ibqbek*_ga*MTY0NDMzNTA4LjE2NjMxMDMzMTA.*_ga_CW55HF8NVT*MTY4NTkzMDk3Ny42NS4xLjE2ODU5MzEwNjkuMC4wLjA.",
-   "slider_image_description" : "Yeni uygulama yayında!",
-    "slider_image_description_others" : "New App Published!",
-    "slider_image_link" : "https://play.google.com/store/apps/details?id=com.ecansoftware.food",
-    "slider_image_link_others" : "https://play.google.com/store/apps/details?id=com.ecansoftware.food",
-    "slider_show" : "show",
-   "slider_type" : "link"
+   "slider_image" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/WhatsApp%20Image%202023-06-13%20at%2006.25.44.jpeg?alt=media&token=9b67c086-c849-4bf9-a657-b0a6cb590e26&_gl=1*1fx0y52*_ga*MTY0NDMzNTA4LjE2NjMxMDMzMTA.*_ga_CW55HF8NVT*MTY4NjYyNjgwNi44My4xLjE2ODY2MjcwMDcuMC4wLjA.",
+    "slider_image_description" : "Bilgi İçin Tıkla!",
+     "slider_image_description_others" : "About Payments",
+    "slider_image_link" : "Bilgi yarışmasının 1. sezonu tamamlandı, ilk 3 sıralamaya girenlere ödülleri 1 gün içerisinde yüklenecek, sezon 2 başladı, sen de yarışmaya katıl ve ödüller kazan! :) ",
+     "slider_image_link_others" : "https://",
+    "slider_show" : "hide",
+   "slider_type" : "info"
   },
   {
    "slider_id" : "1",
@@ -16,8 +16,8 @@
     "slider_image_description_others" : "6 Spin right Free!",
     "slider_image_link" : "6",
      "slider_image_link_others" : "6",
-    "slider_show" : "hide",
-    "slider_type" : "spinb22c99c" 
+    "slider_show" : "show",
+    "slider_type" : "spin99c99c" 
   },
   {
      "slider_id" : "2",
@@ -36,7 +36,7 @@
      "slider_image_description_others" : "7 Scratch Free!",
      "slider_image_link" : "7",
       "slider_image_link_others" : "7",
-    "slider_show" : "show",
+    "slider_show" : "hide",
     "slider_type" : "scratchp9oint"
   },
    {
@@ -56,7 +56,7 @@
      "slider_image_description_others" : "Donate 1 Sapling",
     "slider_image_link" : "Şanslı Cevap uygulaması olarak çevreye biz de destek oluyoruz! Sizlerin desteğiyle onlara 1 fidan hediye ediyoruz, cüzdan bölümünden hediye edebilirsiniz :)",
      "slider_image_link_others" : "As the Lucky Answer application, we also support the environment! With your support, we are giving them 1 sapling as a gift, you can gift it from the wallet section :)",
-     "slider_show" : "show",
+     "slider_show" : "hide",
       "slider_type" : "info"
   },
   {
@@ -92,12 +92,12 @@
   {
     
     "slider_id" : "9",
-   "slider_image" : "https://www.ravedigital.agency/wp-content/uploads/2017/08/loyalty_rewards_program_2.jpg",
-    "slider_image_description" : "Ödemeler Hakkında",
-     "slider_image_description_others" : "About Payments",
-    "slider_image_link" : "https://",
-     "slider_image_link_others" : "https://",
-    "slider_show" : "hide",
+    "slider_image" : "https://firebasestorage.googleapis.com/v0/b/ugurlugun-4606a.appspot.com/o/Photokako-resize-sz3GA4yTz8MfL03s.png?alt=media&token=8cfa5ac2-b5a0-4213-bbb9-71ca2a468bc1&_gl=1*ibqbek*_ga*MTY0NDMzNTA4LjE2NjMxMDMzMTA.*_ga_CW55HF8NVT*MTY4NTkzMDk3Ny42NS4xLjE2ODU5MzEwNjkuMC4wLjA.",
+   "slider_image_description" : "Yeni uygulama yayında!",
+    "slider_image_description_others" : "New App Published!",
+    "slider_image_link" : "https://play.google.com/store/apps/details?id=com.ecansoftware.food",
+    "slider_image_link_others" : "https://play.google.com/store/apps/details?id=com.ecansoftware.food",
+    "slider_show" : "show",
     "slider_type" : "link"
   }
 ]
