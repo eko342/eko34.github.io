@@ -16,34 +16,34 @@
     "pid" : "premium_943"
   },
   {
-    "product" : "50X+25X Çark",
+    "product" : "50X Çark",
     "ptPrice" : "TRY 6,99",
     "firstData":"userSpin",
-    "firstValue": "75",
+    "firstValue": "50",
     "imageUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDbBXhXEUSNVwRZqgi2V5v6-KHU88Jx2Aj-Q&usqp=CAU",
     "pid" : "premium_23049"
   },
   {
-    "product" : "100X+25X Çark",
+    "product" : "100X Çark",
     "ptPrice" : "TRY 11,99",
     "firstData":"userSpin",
-    "firstValue": "125",
+    "firstValue": "100",
     "imageUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDbBXhXEUSNVwRZqgi2V5v6-KHU88Jx2Aj-Q&usqp=CAU",
     "pid" : "premium_1445"
   },
     {
-     "product" : "250X+50X Çark",
+     "product" : "250X Çark",
     "ptPrice" : "TRY 27,99",
     "firstData":"userSpin",
-    "firstValue": "300",
+    "firstValue": "250",
     "imageUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDbBXhXEUSNVwRZqgi2V5v6-KHU88Jx2Aj-Q&usqp=CAU",
     "pid" : "premium_29"
   },
   {
-    "product" : "500X+125X Çark",
+    "product" : "500X Çark",
     "ptPrice" : "TRY 56,99",
     "firstData":"userSpin",
-    "firstValue": "625",
+    "firstValue": "500",
     "imageUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDbBXhXEUSNVwRZqgi2V5v6-KHU88Jx2Aj-Q&usqp=CAU",
     "pid" : "premium_334"
   },
