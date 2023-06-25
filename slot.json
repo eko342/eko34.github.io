@@ -13,9 +13,9 @@
   "elevenValue": 54,
   "twelweValue": 54,
   "minumber": 1,
-  "maxnumber": 20
+  "maxnumber": 20,
   "maxnumberSec": 25,
-  "minumberThird": 50
+  "minumberThird": 50,
   "maxnumberFourth": 75,
   "maxnumberFifth": 101
 }
