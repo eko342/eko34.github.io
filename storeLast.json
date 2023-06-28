@@ -56,7 +56,7 @@
     "pid" : "premium_825"
   },
   {
-    "product" : "50+50X Kazı Kazan",
+    "product" : "50+50X KazıKazan",
     "ptPrice" : "TRY 12,99",
     "firstData":"userSpin",
     "firstValue": "100",
@@ -64,7 +64,7 @@
     "pid" : "premium_232492"
   },
     {
-    "product" : "100+50X Kazı Kazan",
+    "product" : "100+50X KazıKazan",
     "ptPrice" : "TRY 21,99",
     "firstData":"userScratch",
     "firstValue": "150",
@@ -72,7 +72,7 @@
     "pid" : "premium_13"
   },
     {
-     "product" : "200+50X Kazı Kazan",
+     "product" : "200+50X KazıKazan",
     "ptPrice" : "TRY 40,99",
     "firstData":"userScratch",
     "firstValue": "250",
@@ -80,7 +80,7 @@
     "pid" : "premium_24"
   },
   {
-    "product" : "400+50X Kazı Kazan",
+    "product" : "400+50X KazıKazan",
     "ptPrice" : "TRY 80,99",
     "firstData":"userScratch",
     "firstValue": "450",
@@ -88,7 +88,7 @@
     "pid" : "premium_36"
   },
     {
-     "product" : "800+150X Kazı Kazan",
+     "product" : "800+150X KazıKazan",
     "ptPrice" : "TRY 159,99",
     "firstData":"userScratch",
     "firstValue": "950",
@@ -160,7 +160,7 @@
     "pid" : "premium_3494"
   },
     {
-     "product" : "500+150X Çift Puan",
+     "product" : "500+150XÇiftPuan",
     "ptPrice" : "TRY 339,99",
     "firstData":"userDoublePoint",
     "firstValue": "650",
