@@ -4,7 +4,7 @@
   "fft_scratch": 10,
   "first_scratch": 5,
   "ft_scratch": 9,
-  "max_number": 21,
+  "max_number": 20,
   "min_number": 1,
   "reward_cur": 10,
   "scratch_cur": 100,
