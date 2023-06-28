@@ -16,6 +16,14 @@
     "pid" : "premium_943"
   },
   {
+    "product" : "25X Zümrüt",
+    "ptPrice" : "TRY 6,99",
+    "firstData":"userSlot",
+    "firstValue": "25",
+    "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/app%2FPhotokako-resize-5ndGm0j5YE55e07J.jpg?alt=media&token=7f05c760-c0af-44fc-8fdb-f9a400a93b6e",
+    "pid" : "premium_23049"
+  },
+  {
     "product" : "50X Zümrüt",
     "ptPrice" : "TRY 6,99",
     "firstData":"userSlot",
