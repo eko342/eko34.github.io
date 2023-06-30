@@ -1,0 +1,26 @@
+[
+  {
+  "firstPoint": 5,
+  "firstSpin": 15,
+  "secQuestion":20,
+  "secPoint": 15,
+  "secSpin": 25,
+  "secQuestion":30,
+  "thirdPoint": 45,
+  "thirdSpin": 55,
+  "thirdQuestion":20,
+  "fourthPoint": 5,
+  "fourthSpin": 15,
+  "fourthQuestion":20,
+  "fifthPoint": 45,
+  "fifthSpin": 55,
+  "fifthQuestion":20,
+  "sixthPoint": 5,
+  "sixthSpin": 15,
+  "sixthQuestion":20,
+  "seventhPoint": 45,
+  "seventhSpin": 55,
+  "seventhQuestion":20,
+  "taskValue": 2
+}
+  ]
