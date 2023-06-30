@@ -1,12 +1,12 @@
 [
   {
-  "firstValue": 20,
-  "secValue": 15,
-  "thirdValue":20,
-  "fourthValue": 15,
-  "fifthValue": 25,
-  "sixthValue": 5000,
-  "seventhValue": 15000,
+  "firstValue": 10,
+  "secValue": 20,
+  "thirdValue":35,
+  "fourthValue": 50,
+  "fifthValue": 65,
+  "sixthValue": 80,
+  "seventhValue": 100,
   "rewardDiamond": 5
 }
   ]
