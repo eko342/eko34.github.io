@@ -1,12 +1,19 @@
 [
   {
-  "firstXp": 1000,
-  "secXp":2000,
-  "thXp":4000,
-  "fourthXp":5000,
-  "fifthXp":6000,
-  "sixthXp":7000,
-  "seventhXp":9000,
+  "firstXp": 50,
+  "firstLastXp": 150,
+  "secXp":150,
+  "secLastXp": 450,
+  "thXp":450,
+  "thLastXp": 1350,
+  "fourthXp":1350,
+  "fourthLastXp": 4050,
+  "fifthXp":12150,
+  "fifthLastXp": 36450,
+  "sixthXp":36450,
+  "sixthLastXp": 109350,
+  "seventhXp":109350,
+  "seventhLastXp": 328050,
   "taskValue": 2
 }
   ]
