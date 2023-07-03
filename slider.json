@@ -26,7 +26,7 @@
      "slider_image_description_others" : "5 Scratch Free!",
      "slider_image_link" : "5",
       "slider_image_link_others" : "5",
-    "slider_show" : "show",
+    "slider_show" : "hide",
     "slider_type" : "scrathg2351f42"
   },
   {
@@ -36,8 +36,8 @@
      "slider_image_description_others" : "7 Scratch Free!",
      "slider_image_link" : "7",
       "slider_image_link_others" : "7",
-    "slider_show" : "hide",
-    "slider_type" : "scratchp745okpt"
+    "slider_show" : "show",
+    "slider_type" : "scratchp71okpt"
   },
    {
       "slider_id" : "4",
