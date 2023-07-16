@@ -4,21 +4,21 @@
     "price" : 5,
     "value" : 50,
     "type" : "user_slot",
-    "purl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/app%2FPhotokako-resize-5ndGm0j5YE55e07J.jpg?alt=media&token=7f05c760-c0af-44fc-8fdb-f9a400a93b6e"
+    "purl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/gem.png?alt=media&token=db3cb11b-c65c-427c-8b69-1834c3de2862"
   },
     {
      "name" : "100X Zümrüt",
      "price" : 10,
     "value" : 100,
     "type" : "user_slot",
-    "purl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/app%2FPhotokako-resize-5ndGm0j5YE55e07J.jpg?alt=media&token=7f05c760-c0af-44fc-8fdb-f9a400a93b6e"
+    "purl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/gem.png?alt=media&token=db3cb11b-c65c-427c-8b69-1834c3de2862"
   },
   {
      "name" : "150X Zümrüt",
       "price" : 15,
     "value" : 150,
    "type" : "user_slot",
-    "purl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/app%2FPhotokako-resize-5ndGm0j5YE55e07J.jpg?alt=media&token=7f05c760-c0af-44fc-8fdb-f9a400a93b6e"
+    "purl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/gem.png?alt=media&token=db3cb11b-c65c-427c-8b69-1834c3de2862"
   },
     {
      "name" : "200X Zümrüt",
@@ -32,48 +32,48 @@
    "price" : 4,
     "value" : 50,
     "type" : "user_scratch",
-    "purl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcdbNgvpB70UyrbOUv0htW5u3ThxNIfP6jjA&usqp=CAU"
+    "purl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/wheel_coin.png?alt=media&token=1fa7c71e-ea24-4f5c-a940-6cf9cca274e6"
   },
     {
      "name" : "100X Kazı Kazan",
      "price" : 8,
     "value" : 100,
     "type" : "user_scratch",
-    "purl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcdbNgvpB70UyrbOUv0htW5u3ThxNIfP6jjA&usqp=CAU"
+    "purl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/wheel_coin.png?alt=media&token=1fa7c71e-ea24-4f5c-a940-6cf9cca274e6"
   },
   {
      "name" : "150X Kazı Kazan",
       "price" : 12,
     "value" : 150,
      "type" : "user_scratch",
-    "purl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcdbNgvpB70UyrbOUv0htW5u3ThxNIfP6jjA&usqp=CAU"
+    "purl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/wheel_coin.png?alt=media&token=1fa7c71e-ea24-4f5c-a940-6cf9cca274e6"
   },
     {
      "name" : "200X Kazı Kazan",
       "price" : 16,
     "value" : 200,
     "type" : "user_scratch",
-    "purl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcdbNgvpB70UyrbOUv0htW5u3ThxNIfP6jjA&usqp=CAU"
+    "purl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/wheel_coin.png?alt=media&token=1fa7c71e-ea24-4f5c-a940-6cf9cca274e6"
   },
    {
     "name" : "25X Joker",
     "price" : 5,
     "value" : 150,
      "type" : "user_joker",
-    "purl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/app%2Fdiamondd.png?alt=media&token=4cf2090d-e2fd-4632-b34c-037810e66efd"
+    "purl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/hearti.png?alt=media&token=d2b98542-6aa3-4fa5-a6bb-7a9cc6e56c44"
   },
     {
     "name" : "50X Joker",
    "price" : 10,
     "value" : 50,
      "type" : "user_joker",
-    "purl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/app%2Fdiamondd.png?alt=media&token=4cf2090d-e2fd-4632-b34c-037810e66efd"
+    "purl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/hearti.png?alt=media&token=d2b98542-6aa3-4fa5-a6bb-7a9cc6e56c44"
   },
     {
      "name" : "100X Joker",
     "price" : 15,
     "value" : 100,
      "type" : "user_joker",
-    "purl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/app%2Fdiamondd.png?alt=media&token=4cf2090d-e2fd-4632-b34c-037810e66efd"
+    "purl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/hearti.png?alt=media&token=d2b98542-6aa3-4fa5-a6bb-7a9cc6e56c44"
   }
 ]
