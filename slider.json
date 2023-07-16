@@ -16,7 +16,7 @@
     "slider_image_description_others" : "15 Spin right Free!",
     "slider_image_link" : "15",
      "slider_image_link_others" : "15",
-    "slider_show" : "show",
+    "slider_show" : "hide",
     "slider_type" : "spin6212469c" 
   },
   {
@@ -26,8 +26,8 @@
      "slider_image_description_others" : "5 Scratch Free!",
      "slider_image_link" : "5",
       "slider_image_link_others" : "5",
-    "slider_show" : "hide",
-    "slider_type" : "scrathg2351f42"
+    "slider_show" : "show",
+    "slider_type" : "scrathg15v1f42"
   },
   {
      "slider_id" : "3",
