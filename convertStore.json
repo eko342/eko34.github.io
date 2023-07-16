@@ -54,5 +54,26 @@
     "value" : 200,
     "type" : "user_scratch",
     "purl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcdbNgvpB70UyrbOUv0htW5u3ThxNIfP6jjA&usqp=CAU"
-  }  
+  },
+   {
+    "product" : "25X Joker",
+    "price" : 5,
+    "value" : 150,
+     "type" : "user_joker",
+    "purl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/app%2Fdiamondd.png?alt=media&token=4cf2090d-e2fd-4632-b34c-037810e66efd",
+  },
+    {
+    "product" : "50X Joker",
+   "price" : 10,
+    "value" : 50,
+     "type" : "user_joker",
+    "purl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/app%2Fdiamondd.png?alt=media&token=4cf2090d-e2fd-4632-b34c-037810e66efd",
+  },
+    {
+     "product" : "100X Joker",
+    "price" : 15,
+    "value" : 100,
+     "type" : "user_joker",
+    "purl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/app%2Fdiamondd.png?alt=media&token=4cf2090d-e2fd-4632-b34c-037810e66efd",
+  }
 ]
