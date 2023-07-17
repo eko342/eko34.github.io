@@ -13,11 +13,12 @@
   "tenValue": 25,
   "elevenValue": 10,
   "twelweValue": 5,
+  "thirteenValue": 4,
   "minumber": 1,
   "maxnumber": 25,
   "maxnumberSec": 25,
   "minumberThird": 50,
   "maxnumberFourth": 75,
-  "maxnumberFifth": 101
+  "maxnumberFifth": 110
 }
   ]
