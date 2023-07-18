@@ -5,8 +5,8 @@
   "brewardname": "AYLK6GB",
   "minumber": 1,
   "maxnumber": 25,
-  "maxnumberSec": 25,
-  "minumberThird": 49,
+  "maxnumberSec": 30,
+  "minumberThird": 59,
   "pointfifth": 18,
   "pointfirst": 12,
   "pointfourth": 20,
@@ -16,6 +16,6 @@
   "pointsixth": 22,
   "rewardcurrency": 30,
   "spincurrency": 100,
-  "video": 6
+  "video": 8
 }
   ]
