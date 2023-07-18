@@ -1,22 +1,23 @@
 [
   {
+  "rewardXp": 50,
   "firstXp": 50,
   "firstLastXp": 150,
   "secXp":150,
-  "secLastXp": 450,
-  "thXp":450,
-  "thLastXp": 1350,
-  "fourthXp":1350,
-  "fourthLastXp": 4050,
-  "fifthXp":12150,
-  "fifthLastXp": 36450,
-  "sixthXp":36450,
-  "sixthLastXp": 109350,
-  "seventhXp":109350,
-  "seventhLastXp": 328050,
+  "secLastXp": 500,
+  "thXp":500,
+  "thLastXp": 900,
+  "fourthXp":900,
+  "fourthLastXp": 1300,
+  "fifthXp":1300,
+  "fifthLastXp": 1900,
+  "sixthXp":1900,
+  "sixthLastXp": 2500,
+  "seventhXp":2500,
+  "seventhLastXp": 3800,
   "missionFirstNumber": 25,
-  "missionSecNumber": 5,
+  "missionSecNumber": 4,
   "missionThirdNumber": 100,
-  "taskValue": 2
+  "taskValue": 3
 }
   ]
