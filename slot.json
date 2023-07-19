@@ -19,6 +19,13 @@
   "maxnumberSec": 30,
   "minumberThird": 55,
   "maxnumberFourth": 80,
-  "maxnumberFifth": 110
+  "maxnumberFifth": 110,
+  "firstImage" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/slotmachine%2Fcombination_5.png?alt=media&token=87f3fec3-e8f9-4396-b57c-446d7af5962a",
+  "secImage" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/slotmachine%2Fcombination_1.png?alt=media&token=d698ce2d-56d5-4ef4-90c2-78b8d121b7a4",
+  "thirdImage" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/slotmachine%2Fcombination_6.png?alt=media&token=57790cc4-8d40-4e1f-892f-75affc249139",
+  "fourthImage" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/slotmachine%2Fcombination_7.png?alt=media&token=b3d3fe1d-2a65-442e-82ef-7f581986f293",
+  "fifthImage" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/slotmachine%2Fcombination_2.png?alt=media&token=037a3820-4f05-4409-b1db-0fa5689a2d4d",
+  "sixthImage" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/slotmachine%2Fcombination_4.png?alt=media&token=bbe4d312-4609-4bf4-9319-ea529e1ab1a0",
+  "seventhImage" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/slotmachine%2Fcombination_3.png?alt=media&token=a3ae5ff8-2070-45e5-8216-e45f41bdac28"
 }
   ]
