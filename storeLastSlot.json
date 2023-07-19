@@ -1,4 +1,12 @@
 [
+   {
+    "product" : "1X Şans Güvercini",
+    "ptPrice" : "TRY 49,99",
+    "firstData":"userPigeon",
+    "firstValue": "1",
+    "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/pigeons.png?alt=media&token=7cd66144-ae1e-4795-9fc9-69bae3bb4c27",
+    "pid" : "premium_943"
+  },
   {
     "product" : "1X Şanslı Çark",
     "ptPrice" : "TRY 71,99",
