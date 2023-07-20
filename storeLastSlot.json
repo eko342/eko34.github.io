@@ -1,12 +1,4 @@
 [
-    {
-    "product" : "Şans Kutusu",
-    "ptPrice" : "TRY 19.95",
-    "firstData":"userGift",
-    "firstValue": "1",
-    "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/app%2Fgift.png?alt=media&token=13ec776a-10fa-4fa4-a57a-4cda8df1f41b",
-    "pid" : "premium_40124"
-  },
   {
     "product" : "1X Şanslı Çark",
     "ptPrice" : "TRY 71,99",
