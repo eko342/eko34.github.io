@@ -17,51 +17,51 @@
   },
   {
     "product" : "50X Zümrüt",
-    "ptPrice" : "TRY 6,99",
+    "ptPrice" : "TRY 7,69",
     "firstData":"userSlot",
     "firstValue": "50",
     "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/slotmachine%2Fcombination_1.png?alt=media&token=d698ce2d-56d5-4ef4-90c2-78b8d121b7a4",
-    "pid" : "premium_23049"
+    "pid" : "premium_1238757864"
   },
-  {
-    "product" : "150X Zümrüt",
-    "ptPrice" : "TRY 6,99",
+    {
+    "product" : "100X Zümrüt",
+    "ptPrice" : "TRY 14,99",
     "firstData":"userSlot",
-    "firstValue": "150",
+    "firstValue": "100",
     "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/slotmachine%2Fcombination_1.png?alt=media&token=d698ce2d-56d5-4ef4-90c2-78b8d121b7a4",
-    "pid" : "premium_23049"
+    "pid" : "premium_16857864"
   },
   {
     "product" : "250X Zümrüt",
-    "ptPrice" : "TRY 11,99",
+    "ptPrice" : "TRY 36,99",
     "firstData":"userSlot",
     "firstValue": "250",
     "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/slotmachine%2Fcombination_1.png?alt=media&token=d698ce2d-56d5-4ef4-90c2-78b8d121b7a4",
-    "pid" : "premium_1445"
+    "pid" : "premium_1238239864"
   },
     {
      "product" : "500X Zümrüt",
-    "ptPrice" : "TRY 27,99",
+    "ptPrice" : "TRY 73,99",
     "firstData":"userSlot",
     "firstValue": "500",
     "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/slotmachine%2Fcombination_1.png?alt=media&token=d698ce2d-56d5-4ef4-90c2-78b8d121b7a4",
-    "pid" : "premium_29"
+    "pid" : "premium_1948234"
   },
   {
     "product" : "1000X Zümrüt",
-    "ptPrice" : "TRY 56,99",
+    "ptPrice" : "TRY 147,99",
     "firstData":"userSlot",
     "firstValue": "1000",
     "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/slotmachine%2Fcombination_1.png?alt=media&token=d698ce2d-56d5-4ef4-90c2-78b8d121b7a4",
-    "pid" : "premium_334"
+    "pid" : "premium_127429864"
   },
     {
      "product" : "2500X Zümrüt",
-    "ptPrice" : "TRY 109,99",
+    "ptPrice" : "TRY 369,99",
     "firstData":"userSlot",
     "firstValue": "2500",
     "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/slotmachine%2Fcombination_1.png?alt=media&token=d698ce2d-56d5-4ef4-90c2-78b8d121b7a4",
-    "pid" : "premium_825"
+    "pid" : "premium_1631245664"
   },
    {
     "product" : "50X Çark",
@@ -137,7 +137,7 @@
   },
    {
     "product" : "25X Joker",
-    "ptPrice" : "TRY 14,99",
+    "ptPrice" : "TRY 8,79",
     "firstData":"userJoker",
     "firstValue": "25",
     "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/app%2Fhearti.png?alt=media&token=5cc8bdef-a9fb-4377-8ad0-f2dd84c5016f",
@@ -145,7 +145,7 @@
   },
     {
     "product" : "50X Joker",
-    "ptPrice" : "TRY 27,99",
+    "ptPrice" : "TRY 16,99",
     "firstData":"userJoker",
     "firstValue": "50",
     "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/app%2Fhearti.png?alt=media&token=5cc8bdef-a9fb-4377-8ad0-f2dd84c5016f",
@@ -153,7 +153,7 @@
   },
     {
      "product" : "100X Joker",
-    "ptPrice" : "TRY 54,99",
+    "ptPrice" : "TRY 34,99",
     "firstData":"userJoker",
     "firstValue": "100",
     "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/app%2Fhearti.png?alt=media&token=5cc8bdef-a9fb-4377-8ad0-f2dd84c5016f",
@@ -161,7 +161,7 @@
   },
   {
     "product" : "250X Joker",
-    "ptPrice" : "TRY 109,99",
+    "ptPrice" : "TRY 86,99",
     "firstData":"userJoker",
     "firstValue": "250",
     "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/app%2Fhearti.png?alt=media&token=5cc8bdef-a9fb-4377-8ad0-f2dd84c5016f",
@@ -169,7 +169,7 @@
   },
     {
      "product" : "500X Joker",
-    "ptPrice" : "TRY 214,99",
+    "ptPrice" : "TRY 173,99",
     "firstData":"userJoker",
     "firstValue": "500",
     "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/app%2Fhearti.png?alt=media&token=5cc8bdef-a9fb-4377-8ad0-f2dd84c5016f",
