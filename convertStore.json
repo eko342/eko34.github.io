@@ -1,28 +1,28 @@
 [
   {
      "name" : "50X Zümrüt",
-    "price" : 25,
+    "price" : 10,
     "value" : 50,
     "type" : "user_slot",
     "purl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/gem.png?alt=media&token=db3cb11b-c65c-427c-8b69-1834c3de2862"
   },
     {
      "name" : "100X Zümrüt",
-     "price" : 50,
+     "price" : 20,
     "value" : 100,
     "type" : "user_slot",
     "purl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/gem.png?alt=media&token=db3cb11b-c65c-427c-8b69-1834c3de2862"
   },
   {
      "name" : "150X Zümrüt",
-      "price" : 75,
+      "price" : 30,
     "value" : 150,
    "type" : "user_slot",
     "purl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/gem.png?alt=media&token=db3cb11b-c65c-427c-8b69-1834c3de2862"
   },
     {
      "name" : "200X Zümrüt",
-     "price" : 100,
+     "price" : 40,
     "value" : 200,
     "type" : "user_slot",
     "purl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/gem.png?alt=media&token=db3cb11b-c65c-427c-8b69-1834c3de2862"
