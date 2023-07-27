@@ -81,23 +81,28 @@
   },
    {
      "name" : "Sinbo KM",
-    "price" : "850",
+    "price" : "900",
     "purl" : "https://cdn.dsmcdn.com/ty101/product/media/images/20210407/02/bf0c1d21/19407263/1/1_org_zoom.jpg"
   },
    {
      "name" : "AWOX Rapid Mini,
-    "price" : "950",
+    "price" : "1000",
     "purl" : "https://cdn.dsmcdn.com/ty58/product/media/images/20210115/20/53754297/59651454/1/1_org_zoom.jpg"
   },
    {
-     "name" : "Philips 10Bin Mah",
-    "price" : "2800",
-    "purl" : "https://cdn.dsmcdn.com/ty6/product/media/images/20201019/19/17409473/60725709/1/1_org_zoom.jpg"
+     "name" : "TrkTech M4",
+    "price" : "1200",
+    "purl" : "https://cdn.dsmcdn.com/ty964/product/media/images/20230712/9/393102523/79991432/1/1_org_zoom.jpg"
   },
    {
      "name" : "Sonia Mouse",
     "price" : "1200",
     "purl" : "https://cdn.dsmcdn.com/ty64/product/media/images/20210131/5/58788094/136297332/1/1_org_zoom.jpg"
+  },
+  {
+     "name" : "Philips 10Bin Mah",
+    "price" : "2800",
+    "purl" : "https://cdn.dsmcdn.com/ty6/product/media/images/20201019/19/17409473/60725709/1/1_org_zoom.jpg"
   },
    {
      "name" : "Blutv 25 Bakiye",
