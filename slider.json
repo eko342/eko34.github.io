@@ -51,7 +51,7 @@
   },
    {
       "slider_id" : "5",
-    "slider_image" : "https://media.istockphoto.com/id/1363335892/vector/concept-of-privacy-policy.jpg?s=612x612&w=0&k=20&c=385e_VveA0r_ZvbVAA8aEnFpLtn-1jNk8OwHjooS-yw=",
+    "slider_image" : "https://as2.ftcdn.net/v2/jpg/03/96/30/95/1000_F_396309502_ZxJCfGXkxjVlTtHxUi6L047jX9PJnk7D.jpg",
     "slider_image_description" : "Yeni Gizlilik Politikası!",
      "slider_image_description_others" : "New Privacy Policy!",
     "slider_image_link" : "https://drive.google.com/file/d/1KV1TGGzEBi0eTy0bIyp6tSLW1yNL81p2/view",
@@ -71,7 +71,7 @@
   },
   {
      "slider_id" : "7",
-    "slider_image" : "https://media.istockphoto.com/vectors/young-wealthy-man-pays-card-using-mobile-payment-vector-id1066818018?k=20&m=1066818018&s=612x612&w=0&h=jJ17hiwIBZ6H31TNYOBrjtW-aBnOOrLoTXsWtz9XwmE=",
+    "slider_image" : "https://i0.wp.com/humorbendol.com/wp-content/uploads/2023/06/Teens-Making-Money-Online.webp?fit=1000%2C563&ssl=1",
     "slider_image_description" : "Uygulamamız ile para kazanın",
      "slider_image_description_others" : "Application active.",
     "slider_image_link" : "https://",
@@ -79,9 +79,19 @@
     "slider_show" : "show",
       "slider_type" : "link"
   },
-  {
+    {
      "slider_id" : "8",
-    "slider_image" : "https://media.istockphoto.com/id/1217829052/vector/vector-flat-illustration-refer-a-friend-affiliate-partnership-and-earn-money-marketing.jpg?s=612x612&w=0&k=20&c=1zLYgy360ayryj3NoeliPzVT_D-TptuQXWpRHLvKmWg=",
+    "slider_image" : "https://media.istockphoto.com/id/1143052041/vector/check-by-head-on-calendar-work-plans-cartoon-flat.jpg?s=612x612&w=0&k=20&c=DC7SPrAtrMxdjCQKwLEfs2YmSPQYXBaPUx6aFVqEaUA=",
+    "slider_image_description" : "Günlük Görev Yap!",
+     "slider_image_description_others" : "Do Daily Task!",
+    "slider_image_link" : "https://",
+     "slider_image_link_others" : "Application active",
+    "slider_show" : "show",
+      "slider_type" : "link"
+  },
+  {
+     "slider_id" : "9",
+    "slider_image" : "https://as2.ftcdn.net/v2/jpg/03/15/12/39/1000_F_315123983_QRFllegR11mFoyg82rcsOUi1mrordmkt.jpg",
     "slider_image_description" : "Arkadaş Davet Et!",
      "slider_image_description_others" : "Collect and win!",
     "slider_image_link" : "Arkadaşlarını davet ederek puan kazanabilirsin, arkadaşını davet et sayfasından davet etmeyi unutma! :)",
@@ -90,8 +100,8 @@
       "slider_type" : "info"
   },
   {
-     "slider_id" : "9",
-    "slider_image" : "https://static.vecteezy.com/system/resources/thumbnails/020/024/272/small/deposit-illustration-vector.jpg",
+     "slider_id" : "10",
+    "slider_image" : "https://i0.wp.com/humorbendol.com/wp-content/uploads/2023/06/Teens-Making-Money-Online.webp?fit=1000%2C563&ssl=1",
     "slider_image_description" : "Ödemeler Hakkında",
      "slider_image_description_others" : "About Payments",
     "slider_image_link" : "Ödemeler her ayın 20-25'i arasında yapılır ve kullanıcılar bilgilendirilir. Haksız kazanç tespit edilmesi halinde ödeme yapılmaz ve hesap sınırsız şekilde engellenir.",
@@ -101,7 +111,7 @@
   },
   {
     
-    "slider_id" : "10",
+    "slider_id" : "11",
     "slider_image" : "https://firebasestorage.googleapis.com/v0/b/ugurlugun-4606a.appspot.com/o/Photokako-resize-sz3GA4yTz8MfL03s.png?alt=media&token=8cfa5ac2-b5a0-4213-bbb9-71ca2a468bc1&_gl=1*ibqbek*_ga*MTY0NDMzNTA4LjE2NjMxMDMzMTA.*_ga_CW55HF8NVT*MTY4NTkzMDk3Ny42NS4xLjE2ODU5MzEwNjkuMC4wLjA.",
    "slider_image_description" : "Yeni uygulama yayında!",
     "slider_image_description_others" : "New App Published!",
