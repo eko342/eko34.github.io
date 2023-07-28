@@ -111,11 +111,11 @@
   },
   {
      "slider_id" : "11",
-    "slider_image" : "https://img.freepik.com/premium-vector/refer-friend-concept-flat-hand-hold-phone-invite-friends-community-social-media-group-earn-rewards-money-bonus-online-referral-program-teenagers-speech-bubbles-follow-join_88138-745.jpg",
+    "slider_image" : "https://img.freepik.com/premium-vector/hand-holding-phone-with-megaphone-symbol-refer-friend-concept_185038-445.jpg?w=2000",
     "slider_image_description" : "Arkadaş Davet Et!",
      "slider_image_description_others" : "Collect and win!",
-    "slider_image_link" : "Arkadaşlarını davet ederek puan kazanabilirsin, arkadaşını davet et sayfasından davet etmeyi unutma! :)",
-     "slider_image_link_others" : "By collecting points you can get rewards from the wallet or gift these points to charities! :)",
+    "slider_image_link" : "Arkadaşlarını davet ederek elmas kazanabilirsin, her seviyede daha fazla elmas kazan! :)",
+     "slider_image_link_others" : "You can earn diamonds by inviting your friends, get more diamonds in each level! :)",
     "slider_show" : "show",
       "slider_type" : "info"
   },
