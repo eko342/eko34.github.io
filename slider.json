@@ -1,7 +1,7 @@
 [
   {
    "slider_id" : "0",
-   "slider_image" : "https://thumbs.dreamstime.com/b/system-software-update-upgrade-banner-new-time-to-neon-icon-vector-illustration-231892667.jpg",
+   "slider_image" : "https://static.vecteezy.com/system/resources/previews/004/973/597/non_2x/st-patrick-s-day-clover-background-free-vector.jpg",
     "slider_image_description" : "Güncelleme Hakkında!",
      "slider_image_description_others" : "About Update",
     "slider_image_link" : "https://drive.google.com/file/d/1mzNyTQJvgeRAo5aK90boGv7INWbIc460/view?usp=sharing",
@@ -70,28 +70,48 @@
       "slider_type" : "info"
   },
   {
-     "slider_id" : "7",
+      "slider_id" : "6",
+      "slider_image" : "https://i.elle.com.tr/dbimage/b058a97a-2a29-466e-8a82-93e012cbf939-kapak%20copy.JPG",
+    "slider_image_description" : "1 Mama Bağışla!",
+     "slider_image_description_others" : "Donate 1 Food!",
+    "slider_image_link" : "Sevimli dostlara biz de destek oluyoruz! Cüzdan bölümünden 1 kap mama hediye edebilirsiniz :)",
+     "slider_image_link_others" : "We also support cute friends! You can gift 1 cup of food from the wallet section :)",
+     "slider_show" : "hide",
+      "slider_type" : "info"
+  },
+  {
+     "slider_id" : "8",
     "slider_image" : "https://i0.wp.com/humorbendol.com/wp-content/uploads/2023/06/Teens-Making-Money-Online.webp?fit=1000%2C563&ssl=1",
     "slider_image_description" : "Uygulamamız ile para kazanın",
      "slider_image_description_others" : "Application active.",
     "slider_image_link" : "https://",
-     "slider_image_link_others" : "Application active",
+     "slider_image_link_others" : "https://",
     "slider_show" : "show",
       "slider_type" : "link"
   },
     {
-     "slider_id" : "8",
+     "slider_id" : "9",
     "slider_image" : "https://media.istockphoto.com/id/1143052041/vector/check-by-head-on-calendar-work-plans-cartoon-flat.jpg?s=612x612&w=0&k=20&c=DC7SPrAtrMxdjCQKwLEfs2YmSPQYXBaPUx6aFVqEaUA=",
     "slider_image_description" : "Günlük Görev Yap!",
      "slider_image_description_others" : "Do Daily Task!",
     "slider_image_link" : "https://",
-     "slider_image_link_others" : "Application active",
+     "slider_image_link_others" : "https://",
+    "slider_show" : "show",
+      "slider_type" : "link"
+  },
+      {
+     "slider_id" : "10",
+    "slider_image" : "https://static.vecteezy.com/system/resources/previews/020/529/235/original/golden-slot-machine-icon-design-free-vector.jpg",
+    "slider_image_description" : "Slot Çevir!",
+     "slider_image_description_others" : "Spin Slot!",
+    "slider_image_link" : "https://",
+     "slider_image_link_others" : "https://",
     "slider_show" : "show",
       "slider_type" : "link"
   },
   {
-     "slider_id" : "9",
-    "slider_image" : "https://as2.ftcdn.net/v2/jpg/03/15/12/39/1000_F_315123983_QRFllegR11mFoyg82rcsOUi1mrordmkt.jpg",
+     "slider_id" : "11",
+    "slider_image" : "https://media.istockphoto.com/id/1224025866/vector/people-making-money-from-referral-refer-a-friend-or-referral-marketing-concept-social-media.jpg?s=612x612&w=0&k=20&c=hNZXc3v_DEvihIvIbNWJyZxBE9m0SfDUgWx_c5yzbFo=",
     "slider_image_description" : "Arkadaş Davet Et!",
      "slider_image_description_others" : "Collect and win!",
     "slider_image_link" : "Arkadaşlarını davet ederek puan kazanabilirsin, arkadaşını davet et sayfasından davet etmeyi unutma! :)",
@@ -100,7 +120,7 @@
       "slider_type" : "info"
   },
   {
-     "slider_id" : "10",
+     "slider_id" : "12",
     "slider_image" : "https://i0.wp.com/humorbendol.com/wp-content/uploads/2023/06/Teens-Making-Money-Online.webp?fit=1000%2C563&ssl=1",
     "slider_image_description" : "Ödemeler Hakkında",
      "slider_image_description_others" : "About Payments",
@@ -111,7 +131,7 @@
   },
   {
     
-    "slider_id" : "11",
+    "slider_id" : "13",
     "slider_image" : "https://firebasestorage.googleapis.com/v0/b/ugurlugun-4606a.appspot.com/o/Photokako-resize-sz3GA4yTz8MfL03s.png?alt=media&token=8cfa5ac2-b5a0-4213-bbb9-71ca2a468bc1&_gl=1*ibqbek*_ga*MTY0NDMzNTA4LjE2NjMxMDMzMTA.*_ga_CW55HF8NVT*MTY4NTkzMDk3Ny42NS4xLjE2ODU5MzEwNjkuMC4wLjA.",
    "slider_image_description" : "Yeni uygulama yayında!",
     "slider_image_description_others" : "New App Published!",
