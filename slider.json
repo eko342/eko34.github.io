@@ -50,16 +50,16 @@
     "slider_type" : "scrat15b9c" 
   },
    {
-    "slider_id" : "5",
-    "slider_image" : "https://as2.ftcdn.net/v2/jpg/03/96/30/95/1000_F_396309502_ZxJCfGXkxjVlTtHxUi6L047jX9PJnk7D.jpg",
-    "slider_image_description" : "Yeni Gizlilik Politikası!",
-     "slider_image_description_others" : "New Privacy Policy!",
-    "slider_image_link" : "https://drive.google.com/file/d/1KV1TGGzEBi0eTy0bIyp6tSLW1yNL81p2/view?usp=sharing",
-     "slider_image_link_others" : "https://drive.google.com/file/d/10aYrlvCo2HYnrs7VGgXjRsZOtrgosyv3/view?usp=sharing",
+     "slider_id" : "5",
+    "slider_image" : "https://i0.wp.com/humorbendol.com/wp-content/uploads/2023/06/Teens-Making-Money-Online.webp?fit=1000%2C563&ssl=1",
+    "slider_image_description" : "Uygulamamız ile para kazanın!",
+     "slider_image_description_others" : "Application active!",
+    "slider_image_link" : "https://",
+     "slider_image_link_others" : "https://",
     "slider_show" : "show",
-    "slider_type" : "link"
+      "slider_type" : "link"
   },
-  {
+   {
      "slider_id" : "6",
       "slider_image" : "https://static.daktilo.com/sites/830/uploads/2021/07/30/large/nefes.jpg",
     "slider_image_description" : "1 Fidan Bağışla!",
@@ -69,8 +69,18 @@
      "slider_show" : "hide",
       "slider_type" : "info"
   },
+   {
+    "slider_id" : "7",
+    "slider_image" : "https://as2.ftcdn.net/v2/jpg/03/96/30/95/1000_F_396309502_ZxJCfGXkxjVlTtHxUi6L047jX9PJnk7D.jpg",
+    "slider_image_description" : "Yeni Gizlilik Politikası!",
+     "slider_image_description_others" : "New Privacy Policy!",
+    "slider_image_link" : "https://drive.google.com/file/d/1KV1TGGzEBi0eTy0bIyp6tSLW1yNL81p2/view?usp=sharing",
+     "slider_image_link_others" : "https://drive.google.com/file/d/10aYrlvCo2HYnrs7VGgXjRsZOtrgosyv3/view?usp=sharing",
+    "slider_show" : "show",
+    "slider_type" : "link"
+  },
   {
-      "slider_id" : "7",
+      "slider_id" : "8",
       "slider_image" : "https://i.elle.com.tr/dbimage/b058a97a-2a29-466e-8a82-93e012cbf939-kapak%20copy.JPG",
     "slider_image_description" : "1 Mama Bağışla!",
      "slider_image_description_others" : "Donate 1 Food!",
@@ -78,16 +88,6 @@
      "slider_image_link_others" : "We also support cute friends! You can gift 1 cup of food from the wallet section :)",
      "slider_show" : "hide",
       "slider_type" : "info"
-  },
-  {
-     "slider_id" : "8",
-    "slider_image" : "https://i0.wp.com/humorbendol.com/wp-content/uploads/2023/06/Teens-Making-Money-Online.webp?fit=1000%2C563&ssl=1",
-    "slider_image_description" : "Uygulamamız ile para kazanın!",
-     "slider_image_description_others" : "Application active!",
-    "slider_image_link" : "https://",
-     "slider_image_link_others" : "https://",
-    "slider_show" : "show",
-      "slider_type" : "link"
   },
     {
      "slider_id" : "9",
