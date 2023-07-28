@@ -50,11 +50,11 @@
     "slider_type" : "scrat15b9c" 
   },
    {
-      "slider_id" : "5",
+    "slider_id" : "5",
     "slider_image" : "https://as2.ftcdn.net/v2/jpg/03/96/30/95/1000_F_396309502_ZxJCfGXkxjVlTtHxUi6L047jX9PJnk7D.jpg",
     "slider_image_description" : "Yeni Gizlilik Politikası!",
      "slider_image_description_others" : "New Privacy Policy!",
-    "slider_image_link" : "https://drive.google.com/file/d/1KV1TGGzEBi0eTy0bIyp6tSLW1yNL81p2/view",
+    "slider_image_link" : "https://drive.google.com/file/d/1KV1TGGzEBi0eTy0bIyp6tSLW1yNL81p2/view?usp=sharing",
      "slider_image_link_others" : "https://drive.google.com/file/d/10aYrlvCo2HYnrs7VGgXjRsZOtrgosyv3/view?usp=sharing",
     "slider_show" : "show",
     "slider_type" : "link"
@@ -70,7 +70,7 @@
       "slider_type" : "info"
   },
   {
-      "slider_id" : "6",
+      "slider_id" : "7",
       "slider_image" : "https://i.elle.com.tr/dbimage/b058a97a-2a29-466e-8a82-93e012cbf939-kapak%20copy.JPG",
     "slider_image_description" : "1 Mama Bağışla!",
      "slider_image_description_others" : "Donate 1 Food!",
@@ -130,7 +130,6 @@
       "slider_type" : "info"
   },
   {
-    
     "slider_id" : "13",
     "slider_image" : "https://firebasestorage.googleapis.com/v0/b/ugurlugun-4606a.appspot.com/o/Photokako-resize-sz3GA4yTz8MfL03s.png?alt=media&token=8cfa5ac2-b5a0-4213-bbb9-71ca2a468bc1&_gl=1*ibqbek*_ga*MTY0NDMzNTA4LjE2NjMxMDMzMTA.*_ga_CW55HF8NVT*MTY4NTkzMDk3Ny42NS4xLjE2ODU5MzEwNjkuMC4wLjA.",
    "slider_image_description" : "Yeni uygulama yayında!",
