@@ -24,16 +24,6 @@
     "price" : "400",
     "purl" : "https://productimages.hepsiburada.net/s/80/375/110000021777819.jpg"
   },
-   {
-     "name" : "250 Play Kodu",
-    "price" : "1000",
-    "purl" : "https://productimages.hepsiburada.net/s/80/375/110000021777819.jpg"
-  },
-    {
-     "name" : "500 Play Kodu",
-    "price" : "2000",
-    "purl" : "https://productimages.hepsiburada.net/s/80/375/110000021777819.jpg"
-  },
   {
      "name" : "250 IOS Kodu",
     "price" : "1000",
@@ -42,11 +32,6 @@
    {
      "name" : "Netflix 100 Bakiye",
     "price" : "400",
-    "purl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/app%2FEkran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202023-05-22%20110539.png?alt=media&token=0d45ea0f-bb52-4a73-a7df-5fd90c709049"
-  },
-  {
-     "name" : "Netflix 200 Bakiye",
-    "price" : "800",
     "purl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/app%2FEkran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202023-05-22%20110539.png?alt=media&token=0d45ea0f-bb52-4a73-a7df-5fd90c709049"
   },
   {
