@@ -66,11 +66,21 @@
      "slider_image_description_others" : "Donate 1 Sapling!",
     "slider_image_link" : "Çevreye biz de destek oluyoruz! Sizlerin desteğiyle onlara 1 fidan hediye ediyoruz, cüzdan bölümünden hediye edebilirsiniz :)",
      "slider_image_link_others" : "As the Lucky Answer application, we also support the environment! With your support, we are giving them 1 sapling as a gift, you can gift it from the wallet section :)",
-     "slider_show" : "hide",
+     "slider_show" : "show",
+      "slider_type" : "info"
+  },
+    {
+      "slider_id" : "7",
+      "slider_image" : "https://assets.change.org/photos/8/lc/ql/aQLcQLfLRPFFKtx-800x450-noPad.jpg?1513979191",
+    "slider_image_description" : "1 Mama Bağışla!",
+     "slider_image_description_others" : "Donate 1 Food!",
+    "slider_image_link" : "Sevimli dostlara biz de destek oluyoruz! Cüzdan bölümünden 1 kap mama hediye edebilirsiniz :)",
+     "slider_image_link_others" : "We also support cute friends! You can gift 1 cup of food from the wallet section :)",
+     "slider_show" : "show",
       "slider_type" : "info"
   },
    {
-    "slider_id" : "7",
+    "slider_id" : "8",
     "slider_image" : "https://as2.ftcdn.net/v2/jpg/03/96/30/95/1000_F_396309502_ZxJCfGXkxjVlTtHxUi6L047jX9PJnk7D.jpg",
     "slider_image_description" : "Gizlilik Politikası",
      "slider_image_description_others" : "About Privacy",
@@ -78,16 +88,6 @@
      "slider_image_link_others" : "https://drive.google.com/file/d/1mzNyTQJvgeRAo5aK90boGv7INWbIc460/view?usp=sharing",
     "slider_show" : "show",
    "slider_type" : "link"
-  },
-  {
-      "slider_id" : "8",
-      "slider_image" : "https://i.elle.com.tr/dbimage/b058a97a-2a29-466e-8a82-93e012cbf939-kapak%20copy.JPG",
-    "slider_image_description" : "1 Mama Bağışla!",
-     "slider_image_description_others" : "Donate 1 Food!",
-    "slider_image_link" : "Sevimli dostlara biz de destek oluyoruz! Cüzdan bölümünden 1 kap mama hediye edebilirsiniz :)",
-     "slider_image_link_others" : "We also support cute friends! You can gift 1 cup of food from the wallet section :)",
-     "slider_show" : "hide",
-      "slider_type" : "info"
   },
     {
      "slider_id" : "9",
