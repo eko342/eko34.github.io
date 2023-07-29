@@ -82,12 +82,12 @@
    {
     "slider_id" : "8",
     "slider_image" : "https://as2.ftcdn.net/v2/jpg/03/96/30/95/1000_F_396309502_ZxJCfGXkxjVlTtHxUi6L047jX9PJnk7D.jpg",
-    "slider_image_description" : "Gizlilik Politikası",
-     "slider_image_description_others" : "About Privacy",
-    "slider_image_link" : "https://drive.google.com/file/d/1mzNyTQJvgeRAo5aK90boGv7INWbIc460/view?usp=sharing",
-     "slider_image_link_others" : "https://drive.google.com/file/d/1mzNyTQJvgeRAo5aK90boGv7INWbIc460/view?usp=sharing",
+    "slider_image_description" : "Bilgi İçin Tıkla!",
+     "slider_image_description_others" : "Info!",
+    "slider_image_link" : "Gizlilik Politikamız yeni güncelleme ile güncellenmiştir. Yeni şartları soldaki menüye tıklayarak okuyabilirsiniz.",
+     "slider_image_link_others" : "Our Privacy Policy has been updated with the new update. You can read the new terms by clicking the menu on the left.",
     "slider_show" : "show",
-   "slider_type" : "link"
+   "slider_type" : "info"
   },
     {
      "slider_id" : "9",
