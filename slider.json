@@ -6,7 +6,7 @@
      "slider_image_description_others" : "About Update",
     "slider_image_link" : "https://drive.google.com/file/d/1mzNyTQJvgeRAo5aK90boGv7INWbIc460/view?usp=sharing",
      "slider_image_link_others" : "https://drive.google.com/file/d/1mzNyTQJvgeRAo5aK90boGv7INWbIc460/view?usp=sharing",
-    "slider_show" : "show",
+    "slider_show" : "hide",
    "slider_type" : "link"
   },
   {
@@ -16,8 +16,8 @@
     "slider_image_description_others" : "10 Spin right Free!",
     "slider_image_link" : "10",
      "slider_image_link_others" : "10",
-    "slider_show" : "hide",
-    "slider_type" : "spin6vb9c" 
+    "slider_show" : "show",
+    "slider_type" : "spin6v12cb9c" 
   },
   {
      "slider_id" : "2",
@@ -46,7 +46,7 @@
     "slider_image_description_others" : "30 Emarald right Free!",
     "slider_image_link" : "30",
      "slider_image_link_others" : "30",
-    "slider_show" : "show",
+    "slider_show" : "hide",
     "slider_type" : "scrat15b9c" 
   },
    {
@@ -96,7 +96,7 @@
      "slider_image_description_others" : "Do Daily Task!",
     "slider_image_link" : "https://",
      "slider_image_link_others" : "https://",
-    "slider_show" : "show",
+    "slider_show" : "hide",
       "slider_type" : "link"
   },
       {
