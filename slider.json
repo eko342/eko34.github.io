@@ -42,12 +42,12 @@
     {
    "slider_id" : "4",
     "slider_image" : "https://looneytuneswom.scopely.com/wp-content/uploads/sites/2/2020/03/St-Patricks.png",
-    "slider_image_description" : "30 Zümrüt Hediye!",
-    "slider_image_description_others" : "30 Emarald right Free!",
-    "slider_image_link" : "30",
-     "slider_image_link_others" : "30",
-    "slider_show" : "hide",
-    "slider_type" : "scrat15b9c" 
+    "slider_image_description" : "40 Zümrüt Hediye!",
+    "slider_image_description_others" : "40 Emarald right Free!",
+    "slider_image_link" : "40",
+     "slider_image_link_others" : "40",
+    "slider_show" : "show",
+    "slider_type" : "scrat145fg9c" 
   },
    {
      "slider_id" : "5",
@@ -66,7 +66,7 @@
      "slider_image_description_others" : "Donate 1 Sapling!",
     "slider_image_link" : "Çevreye biz de destek oluyoruz! Sizlerin desteğiyle onlara 1 fidan hediye ediyoruz, cüzdan bölümünden hediye edebilirsiniz :)",
      "slider_image_link_others" : "As the Lucky Answer application, we also support the environment! With your support, we are giving them 1 sapling as a gift, you can gift it from the wallet section :)",
-     "slider_show" : "hide",
+     "slider_show" : "show",
       "slider_type" : "info"
   },
     {
@@ -86,7 +86,7 @@
      "slider_image_description_others" : "Info!",
     "slider_image_link" : "Gizlilik Politikamız yeni güncelleme ile güncellenmiştir. Yeni şartları soldaki menüye tıklayarak okuyabilirsiniz.",
      "slider_image_link_others" : "Our Privacy Policy has been updated with the new update. You can read the new terms by clicking the menu on the left.",
-    "slider_show" : "show",
+    "slider_show" : "hide",
    "slider_type" : "info"
   },
     {
@@ -106,7 +106,7 @@
      "slider_image_description_others" : "Spin Slot!",
     "slider_image_link" : "https://",
      "slider_image_link_others" : "https://",
-    "slider_show" : "show",
+    "slider_show" : "hide",
       "slider_type" : "link"
   },
   {
