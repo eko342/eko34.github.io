@@ -1,33 +1,5 @@
 [
   {
-     "name" : "50X Zümrüt",
-    "price" : 35,
-    "value" : 50,
-    "type" : "user_slot",
-    "purl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/gem.png?alt=media&token=db3cb11b-c65c-427c-8b69-1834c3de2862"
-  },
-    {
-     "name" : "100X Zümrüt",
-     "price" : 70,
-    "value" : 100,
-    "type" : "user_slot",
-    "purl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/gem.png?alt=media&token=db3cb11b-c65c-427c-8b69-1834c3de2862"
-  },
-  {
-     "name" : "150X Zümrüt",
-      "price" : 105,
-    "value" : 150,
-   "type" : "user_slot",
-    "purl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/gem.png?alt=media&token=db3cb11b-c65c-427c-8b69-1834c3de2862"
-  },
-    {
-     "name" : "200X Zümrüt",
-     "price" : 210,
-    "value" : 200,
-    "type" : "user_slot",
-    "purl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/gem.png?alt=media&token=db3cb11b-c65c-427c-8b69-1834c3de2862"
-  },
-  {
      "name" : "50X Kazı Kazan",
    "price" : 25,
     "value" : 50,
