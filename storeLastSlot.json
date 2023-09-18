@@ -15,46 +15,6 @@
     "imageUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcdbNgvpB70UyrbOUv0htW5u3ThxNIfP6jjA&usqp=CAU",
     "pid" : "premium_943"
   },
-    {
-    "product" : "100X Zümrüt",
-    "ptPrice" : "TRY 14,99",
-    "firstData":"userSlot",
-    "firstValue": "100",
-    "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/slotmachine%2Fcombination_1.png?alt=media&token=d698ce2d-56d5-4ef4-90c2-78b8d121b7a4",
-    "pid" : "premium_16857864"
-  },
-  {
-    "product" : "250X Zümrüt",
-    "ptPrice" : "TRY 36,99",
-    "firstData":"userSlot",
-    "firstValue": "250",
-    "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/slotmachine%2Fcombination_1.png?alt=media&token=d698ce2d-56d5-4ef4-90c2-78b8d121b7a4",
-    "pid" : "premium_1238239864"
-  },
-    {
-     "product" : "500X Zümrüt",
-    "ptPrice" : "TRY 73,99",
-    "firstData":"userSlot",
-    "firstValue": "500",
-    "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/slotmachine%2Fcombination_1.png?alt=media&token=d698ce2d-56d5-4ef4-90c2-78b8d121b7a4",
-    "pid" : "premium_1948234"
-  },
-  {
-    "product" : "1000X Zümrüt",
-    "ptPrice" : "TRY 147,99",
-    "firstData":"userSlot",
-    "firstValue": "1000",
-    "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/slotmachine%2Fcombination_1.png?alt=media&token=d698ce2d-56d5-4ef4-90c2-78b8d121b7a4",
-    "pid" : "premium_127429864"
-  },
-    {
-     "product" : "2500X Zümrüt",
-    "ptPrice" : "TRY 369,99",
-    "firstData":"userSlot",
-    "firstValue": "2500",
-    "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/slotmachine%2Fcombination_1.png?alt=media&token=d698ce2d-56d5-4ef4-90c2-78b8d121b7a4",
-    "pid" : "premium_1631245664"
-  },
    {
     "product" : "50X Çark",
     "ptPrice" : "TRY 6,99",
