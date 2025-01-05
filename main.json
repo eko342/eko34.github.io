@@ -3,7 +3,8 @@
    "logo_visibility" : "visible",
    "backgroundUrl" : "https://",
     "logoUrl" : "https://",
-    "text" : "app"
+    "text" : "app",
+    "textVisibility" : "visible",
    "main_type" : "app"
   }
 ]
