@@ -1,10 +1,10 @@
 [
   {
-   "logoVisibility" : "visible",
+   "logoVisibility" : visible,
    "backgroundUrl" : "https://",
     "logoUrl" : "https://",
     "textString" : "app",
-    "textVisibility" : "visible",
+    "textVisibility" : visible,
    "mainType" : "app"
   }
 ]
