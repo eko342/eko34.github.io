@@ -1,10 +1,10 @@
 [
   {
-   "logoVisibility" : 0,
-   "backgroundUrl" : "https://",
+   "logoVisibility" : 1,
+   "backgroundUrl" : "https://w0.peakpx.com/wallpaper/626/892/HD-wallpaper-ramazan-bayrami-arka-plan-bayram-ios-kart-mubarek-olsun-ramazan-seker-bayrami-tebrik-thumbnail.jpg",
     "logoUrl" : "https://",
-    "textString" : "app",
-    "textVisibility" : 0,
-   "mainType" : "app"
+    "textString" : "0",
+    "textVisibility" : 1,
+   "mainType" : "link"
   }
 ]
