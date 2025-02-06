@@ -1,12 +1,10 @@
 [
    {
     "firstData":"userChanceSpin",
-    "firstValue": "1",
     "pid" : "premium_405"
   },
    {
     "firstData":"userChanceScratch",
-    "firstValue": "1",
     "pid" : "premium_943"
   }
 ]
