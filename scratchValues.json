@@ -1,6 +1,6 @@
 [
   {
-  "big_reward": "1000",
+  "big_reward": 1000,
   "fft_scratch": 10,
   "first_scratch": 5,
   "ft_scratch": 9,
