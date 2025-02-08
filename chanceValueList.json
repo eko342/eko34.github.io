@@ -1,8 +1,8 @@
 [
-   {
-    "secData":"userChanceScratch",
-    "pidSec" : "premium_943",
-    "thData":"userChanceSpin",
-    "pidTh" : "premium_9243"
-   }
+  {
+    "firstData" : "userChanceScratch",
+    "firstPid" : "premium_943",
+    "secData" : "userChanceSpin",
+   "secPid" : "premium_9243"
+  }
 ]
