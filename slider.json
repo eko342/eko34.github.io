@@ -11,7 +11,7 @@
   },
   {
    "slider_id" : "1",
-    "slider_image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5oQnwmq4yViMU7sN0bTbhOnSEp5KsSLraxw&usqp=CAU",
+    "slider_image" : "https://static.vecteezy.com/system/resources/previews/005/525/140/non_2x/volumetric-cartoon-casino-wheel-fortune-with-gold-coins-around-on-purple-blurred-background-vector.jpg",
     "slider_image_description" : "20 Çark Hakkı Hediye!",
     "slider_image_description_others" : "20 Spin right Free!",
     "slider_image_link" : "20",
@@ -36,16 +36,16 @@
      "slider_image_description_others" : "5 Scratch Free!",
      "slider_image_link" : "5",
       "slider_image_link_others" : "5",
-    "slider_show" : "show",
+    "slider_show" : "hide",
     "slider_type" : "scratch240et"
   },
     {
    "slider_id" : "4",
     "slider_image" : "https://media.istockphoto.com/id/187974430/photo/st-patricks-day-leprechaun-with-golden-pot.jpg?s=612x612&w=0&k=20&c=6K3BKXs3FouiT205iblXgkgTpblrY3OjGy5FB_ga-70=",
-    "slider_image_description" : "40 Zümrüt Hediye!",
-    "slider_image_description_others" : "40 Emarald right Free!",
-    "slider_image_link" : "40",
-     "slider_image_link_others" : "40",
+    "slider_image_description" : "50 Zümrüt Hediye!",
+    "slider_image_description_others" : "50 Emarald right Free!",
+    "slider_image_link" : "50",
+     "slider_image_link_others" : "50",
     "slider_show" : "show",
     "slider_type" : "scrat23454dc" 
   },
