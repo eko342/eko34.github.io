@@ -1,7 +1,7 @@
 [
   {
    "slider_id" : "0",
-   "slider_image" : "https://static.vecteezy.com/system/resources/previews/006/609/571/non_2x/women-earn-a-lot-of-money-with-laptops-from-the-internet-vector.jpg",
+   "slider_image" : "https://static.vecteezy.com/system/resources/previews/005/611/490/non_2x/earn-point-concept-loyalty-program-and-get-rewards-suitable-for-web-landing-page-ui-mobile-app-banner-template-flat-style-cartoon-illustration-vector.jpg",
      "slider_image_description" : "Uygulamamız ile para kazanın!",
      "slider_image_description_others" : "Application active!",
     "slider_image_link" : "https://",
@@ -26,7 +26,7 @@
      "slider_image_description_others" : "5 Scratch Free!",
      "slider_image_link" : "5",
       "slider_image_link_others" : "5",
-    "slider_show" : "show",
+    "slider_show" : "hide",
     "slider_type" : "scrath540v242"
   },
   {
@@ -41,13 +41,13 @@
   },
     {
    "slider_id" : "4",
-    "slider_image" : "https://looneytuneswom.scopely.com/wp-content/uploads/sites/2/2020/03/St-Patricks.png",
+    "slider_image" : "https://media.istockphoto.com/id/187974430/photo/st-patricks-day-leprechaun-with-golden-pot.jpg?s=612x612&w=0&k=20&c=6K3BKXs3FouiT205iblXgkgTpblrY3OjGy5FB_ga-70=",
     "slider_image_description" : "40 Zümrüt Hediye!",
     "slider_image_description_others" : "40 Emarald right Free!",
     "slider_image_link" : "40",
      "slider_image_link_others" : "40",
     "slider_show" : "show",
-    "slider_type" : "scrat234g9c" 
+    "slider_type" : "scrat23454dc" 
   },
    {
      "slider_id" : "5",
