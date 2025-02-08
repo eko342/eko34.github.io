@@ -1,12 +1,12 @@
 [
   {
    "slider_id" : "0",
-   "slider_image" : "https://static.vecteezy.com/system/resources/previews/004/973/597/non_2x/st-patrick-s-day-clover-background-free-vector.jpg",
-    "slider_image_description" : "Güncelleme Hakkında!",
-     "slider_image_description_others" : "About Update",
-    "slider_image_link" : "https://drive.google.com/file/d/1mzNyTQJvgeRAo5aK90boGv7INWbIc460/view?usp=sharing",
-     "slider_image_link_others" : "https://drive.google.com/file/d/1mzNyTQJvgeRAo5aK90boGv7INWbIc460/view?usp=sharing",
-    "slider_show" : "hide",
+   "slider_image" : "https://static.vecteezy.com/system/resources/previews/006/609/571/non_2x/women-earn-a-lot-of-money-with-laptops-from-the-internet-vector.jpg",
+     "slider_image_description" : "Uygulamamız ile para kazanın!",
+     "slider_image_description_others" : "Application active!",
+    "slider_image_link" : "https://",
+     "slider_image_link_others" : "https://",
+    "slider_show" : "show",
    "slider_type" : "link"
   },
   {
@@ -16,8 +16,8 @@
     "slider_image_description_others" : "20 Spin right Free!",
     "slider_image_link" : "20",
      "slider_image_link_others" : "20",
-    "slider_show" : "hide",
-    "slider_type" : "spinzcvb25fe9c" 
+    "slider_show" : "show",
+    "slider_type" : "spinzcvb52e9c" 
   },
   {
      "slider_id" : "2",
@@ -26,8 +26,8 @@
      "slider_image_description_others" : "5 Scratch Free!",
      "slider_image_link" : "5",
       "slider_image_link_others" : "5",
-    "slider_show" : "hide",
-    "slider_type" : "scrath563vbmf42"
+    "slider_show" : "show",
+    "slider_type" : "scrath540v242"
   },
   {
      "slider_id" : "3",
@@ -36,8 +36,8 @@
      "slider_image_description_others" : "5 Scratch Free!",
      "slider_image_link" : "5",
       "slider_image_link_others" : "5",
-    "slider_show" : "hide",
-    "slider_type" : "scratchp713t"
+    "slider_show" : "show",
+    "slider_type" : "scratch240et"
   },
     {
    "slider_id" : "4",
@@ -46,8 +46,8 @@
     "slider_image_description_others" : "40 Emarald right Free!",
     "slider_image_link" : "40",
      "slider_image_link_others" : "40",
-    "slider_show" : "hide",
-    "slider_type" : "scrat145fg9c" 
+    "slider_show" : "show",
+    "slider_type" : "scrat234g9c" 
   },
    {
      "slider_id" : "5",
@@ -66,7 +66,7 @@
      "slider_image_description_others" : "Donate 1 Sapling!",
     "slider_image_link" : "Çevreye biz de destek oluyoruz! Sizlerin desteğiyle onlara 1 fidan hediye ediyoruz, cüzdan bölümünden hediye edebilirsiniz :)",
      "slider_image_link_others" : "As the Lucky Answer application, we also support the environment! With your support, we are giving them 1 sapling as a gift, you can gift it from the wallet section :)",
-     "slider_show" : "hide",
+     "slider_show" : "show",
       "slider_type" : "info"
   },
     {
@@ -76,7 +76,7 @@
      "slider_image_description_others" : "Donate 1 Food!",
     "slider_image_link" : "Sevimli dostlara biz de destek oluyoruz! Cüzdan bölümünden 1 kap mama hediye edebilirsiniz :)",
      "slider_image_link_others" : "We also support cute friends! You can gift 1 cup of food from the wallet section :)",
-     "slider_show" : "hide",
+     "slider_show" : "show",
       "slider_type" : "info"
   },
    {
@@ -116,7 +116,7 @@
      "slider_image_description_others" : "Collect and win!",
     "slider_image_link" : "Arkadaşlarını davet ederek elmas kazanabilirsin, her seviyede daha fazla elmas kazan! :)",
      "slider_image_link_others" : "You can earn diamonds by inviting your friends, get more diamonds in each level! :)",
-    "slider_show" : "show",
+    "slider_show" : "hide",
       "slider_type" : "info"
   },
   {
