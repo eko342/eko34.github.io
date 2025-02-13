@@ -11,37 +11,37 @@
   },
    {
      "name" : "100 Play Kodu",
-    "price" : "400",
+    "price" : "250",
     "purl" : "https://productimages.hepsiburada.net/s/80/375/110000021777819.jpg"
   },
   {
      "name" : "250 IOS Kodu",
-    "price" : "1000",
+    "price" : "700",
     "purl" : "https://cdn.dsmcdn.com/ty734/product/media/images/20230216/15/282171656/847525505/1/1_org_zoom.jpg"
   },
    {
      "name" : "Netflix 100 Bakiye",
-    "price" : "400",
+    "price" : "250",
     "purl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/app%2FEkran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202023-05-22%20110539.png?alt=media&token=0d45ea0f-bb52-4a73-a7df-5fd90c709049"
   },
   {
      "name" : "Lcwaikiki 100 HÇ",
-    "price" : "400",
+    "price" : "250",
     "purl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/23234213.png?alt=media&token=6056a108-1136-42ab-aa04-c4514abd2233&_gl=1*1brg4xd*_ga*MTY0NDMzNTA4LjE2NjMxMDMzMTA.*_ga_CW55HF8NVT*MTY4NjA5ODIzOC42Ny4xLjE2ODYxMDE3MDUuMC4wLjA."
   },
    {
      "name" : "Lcwaikiki 200 HÇ",
-    "price" : "800",
+    "price" : "500",
     "purl" : "https://firebasestorage.googleapis.com/v0/b/chanceword-7a786.appspot.com/o/23234213.png?alt=media&token=6056a108-1136-42ab-aa04-c4514abd2233&_gl=1*1brg4xd*_ga*MTY0NDMzNTA4LjE2NjMxMDMzMTA.*_ga_CW55HF8NVT*MTY4NjA5ODIzOC42Ny4xLjE2ODYxMDE3MDUuMC4wLjA."
   },
   {
      "name" : "Zara 400 HÇ",
-    "price" : "1600",
+    "price" : "1000",
     "purl" : "https://media.istockphoto.com/id/1289735749/tr/foto%C4%9Fraf/ba%C4%9Fl%C4%B1-yayl%C4%B1-hediye-kart%C4%B1.jpg?s=612x612&w=0&k=20&c=1b_SK3UuheCImylb45RjcEdM2F7a5-JT-zkpwNN22gY="
   },
    {
      "name" : "Zara 800 HÇ",
-    "price" : "3200",
+    "price" : "2000",
     "purl" : "https://media.istockphoto.com/id/1289735749/tr/foto%C4%9Fraf/ba%C4%9Fl%C4%B1-yayl%C4%B1-hediye-kart%C4%B1.jpg?s=612x612&w=0&k=20&c=1b_SK3UuheCImylb45RjcEdM2F7a5-JT-zkpwNN22gY="
   },
    {
@@ -81,42 +81,67 @@
   },
    {
      "name" : "Blutv 100 Bakiye",
-    "price" : "400",
+    "price" : "250",
     "purl" : "https://cdn.dsmcdn.com/ty399/product/media/images/20220415/16/92657531/83401900/2/2_org_zoom.jpeg"
   },
     {
      "name" : "YS 100 HÇ",
-    "price" : "400",
+    "price" : "250",
     "purl" : "https://seeklogo.com/images/Y/yemek-sepeti-logo-14A9709947-seeklogo.com.png"
   },
     {
      "name" : "Turkcell 200 Kontör",
-    "price" : "800",
+    "price" : "500",
     "purl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlrlIUxNaM0f4DFuLtfyNAE-MZeZV4SlBkUw&usqp=CAU"
   },
     {
      "name" : "Türk T. 200 Kontör",
-    "price" : "800",
+    "price" : "500",
     "purl" : "https://www.turktelekom.com.tr/assets/img/turk-telekom-og-image.jpg"
   },
-   {
-     "name" : "Ininal 200",
-    "price" : "800",
+  {
+     "name" : "Ininal 50",
+    "price" : "125",
     "purl" : "data:image/png;base64,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"
   },
    {
+     "name" : "Ininal 100",
+    "price" : "250",
+    "purl" : "data:image/png;base64,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"
+  },
+   {
+     "name" : "Ininal 200",
+    "price" : "500",
+    "purl" : "data:image/png;base64,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"
+  },
+   {
+  "name" : "Papara 100",
+    "price" : "250",
+    "purl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhJakjUIBjsjbLYDC11Sk1oCKL5qpUYAlZag&usqp=CAU"
+   },
+   {
   "name" : "Papara 200",
-    "price" : "800",
+    "price" : "500",
     "purl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhJakjUIBjsjbLYDC11Sk1oCKL5qpUYAlZag&usqp=CAU"
    },
   {
-   "name" : "Iban 400",
-    "price" : "1600",
+   "name" : "Iban 200",
+    "price" : "500",
     "purl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2IV2Y6DESpwHj3Lq0nLQmzVb02tIavm27ig&usqp=CAU"
+  },
+  {
+   "name" : "Iban 400",
+    "price" : "1000",
+    "purl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2IV2Y6DESpwHj3Lq0nLQmzVb02tIavm27ig&usqp=CAU"
+  },
+  {
+     "name" : "Steam 100",
+    "price" : "250",
+    "purl" : "https://upload.wikimedia.org/wikipedia/commons/c/c1/Steam_Logo.png"
   },
    {
      "name" : "Steam 200",
-    "price" : "800",
+    "price" : "500",
     "purl" : "https://upload.wikimedia.org/wikipedia/commons/c/c1/Steam_Logo.png"
   },
   {
