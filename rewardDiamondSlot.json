@@ -105,14 +105,19 @@
     "purl" : "https://cdn.dsmcdn.com/ty1318/product/media/images/prod/QC/20240517/10/afd64742-fdac-38fc-8319-5849379c0798/1_org_zoom.jpg"
   },
     {
-     "name" : "Turkcell 200 Kontör",
+     "name" : "Turkcell 200 TL",
     "price" : "400",
     "purl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlrlIUxNaM0f4DFuLtfyNAE-MZeZV4SlBkUw&usqp=CAU"
   },
     {
-     "name" : "Türk T. 200 Kontör",
+     "name" : "Türk T. 200 TL",
     "price" : "400",
     "purl" : "https://www.turktelekom.com.tr/assets/img/turk-telekom-og-image.jpg"
+  },
+     {
+     "name" : "Vodafone 200 TL",
+    "price" : "400",
+    "purl" : "https://files.sikayetvar.com/complaint/3159/31596612/vodafone-hosgeldin-25-kampanyasi-magduriyeti-cifte-odeme-talebi-1_768x768.jpg"
   },
    {
      "name" : "Ininal 100",
