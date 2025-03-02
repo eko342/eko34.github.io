@@ -31,6 +31,46 @@
     "imageUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDbBXhXEUSNVwRZqgi2V5v6-KHU88Jx2Aj-Q&usqp=CAU",
     "pid" : "premium_334"
   },
+    {
+    "product" : "50X Zümrüt",
+    "ptPrice" : "TRY 8,29",
+    "firstData":"userSlot",
+    "firstValue": "50",
+    "imageUrl" : "https://us.123rf.com/450wm/zadioto/zadioto2206/zadioto220600009/190687501-patterns-green-gem-vector-illustration.jpg?ver=6",
+    "pid" : "premium_17752864"
+  },
+    {
+    "product" : "100X Zümrüt",
+    "ptPrice" : "TRY 14,99",
+    "firstData":"userSlot",
+    "firstValue": "100",
+    "imageUrl" : "https://us.123rf.com/450wm/zadioto/zadioto2206/zadioto220600009/190687501-patterns-green-gem-vector-illustration.jpg?ver=6",
+    "pid" : "premium_16857864"
+  },
+  {
+    "product" : "250X Zümrüt",
+    "ptPrice" : "TRY 36,99",
+    "firstData":"userSlot",
+    "firstValue": "250",
+    "imageUrl" : "https://us.123rf.com/450wm/zadioto/zadioto2206/zadioto220600009/190687501-patterns-green-gem-vector-illustration.jpg?ver=6",
+    "pid" : "premium_1238239864"
+  },
+    {
+     "product" : "500X Zümrüt",
+    "ptPrice" : "TRY 72,99",
+    "firstData":"userSlot",
+    "firstValue": "500",
+    "imageUrl" : "https://us.123rf.com/450wm/zadioto/zadioto2206/zadioto220600009/190687501-patterns-green-gem-vector-illustration.jpg?ver=6",
+    "pid" : "premium_1948234"
+  },
+  {
+    "product" : "1000X Zümrüt",
+    "ptPrice" : "TRY 144,99",
+    "firstData":"userSlot",
+    "firstValue": "1000",
+    "imageUrl" : "https://us.123rf.com/450wm/zadioto/zadioto2206/zadioto220600009/190687501-patterns-green-gem-vector-illustration.jpg?ver=6",
+    "pid" : "premium_127429864"
+  },
   {
     "product" : "50X Kazı Kazan",
     "ptPrice" : "TRY 12,99",
