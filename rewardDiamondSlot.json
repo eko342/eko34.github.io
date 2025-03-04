@@ -46,6 +46,11 @@
   },
    {
      "name" : "Zara 800TL",
+    "price" : "1600",
+    "purl" : "https://media.istockphoto.com/id/1289735749/tr/foto%C4%9Fraf/ba%C4%9Fl%C4%B1-yayl%C4%B1-hediye-kart%C4%B1.jpg?s=612x612&w=0&k=20&c=1b_SK3UuheCImylb45RjcEdM2F7a5-JT-zkpwNN22gY="
+  },
+  {
+     "name" : "Zara 1000TL",
     "price" : "2000",
     "purl" : "https://media.istockphoto.com/id/1289735749/tr/foto%C4%9Fraf/ba%C4%9Fl%C4%B1-yayl%C4%B1-hediye-kart%C4%B1.jpg?s=612x612&w=0&k=20&c=1b_SK3UuheCImylb45RjcEdM2F7a5-JT-zkpwNN22gY="
   },
