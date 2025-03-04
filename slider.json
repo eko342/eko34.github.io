@@ -1,11 +1,11 @@
 [
   {
    "slider_id" : "0",
-   "slider_image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqFCOnulIiv5sl4MV9nUOolC8oGlgUkC_clTWhKsW88EkVWGcs1TXPW5E&s=10",
-     "slider_image_description" : "Uygulamamız ile para kazanın!",
-     "slider_image_description_others" : "Application active!",
-    "slider_image_link" : "https://",
-     "slider_image_link_others" : "https://",
+   "slider_image" : "https://cdn.create.vista.com/api/media/small/581912434/stock-vector-marketing-research-abstract-concept-vector-illustration-purchasing-habits-brand-persona",
+     "slider_image_description" : "Görüş Bildir!",
+     "slider_image_description_others" : "Do Comment!",
+    "slider_image_link" : "https://play.google.com/store/apps/details?id=com.ecansoftware.sanslicevap",
+     "slider_image_link_others" : "https://play.google.com/store/apps/details?id=com.ecansoftware.sanslicevap",
     "slider_show" : "show",
    "slider_type" : "link"
   },
@@ -96,7 +96,7 @@
      "slider_image_description_others" : "Do Daily Task!",
     "slider_image_link" : "https://",
      "slider_image_link_others" : "https://",
-    "slider_show" : "hide",
+    "slider_show" : "show",
       "slider_type" : "link"
   },
       {
@@ -111,12 +111,12 @@
   },
   {
      "slider_id" : "11",
-    "slider_image" : "https://img.freepik.com/premium-vector/hand-holding-phone-with-megaphone-symbol-refer-friend-concept_185038-445.jpg?w=2000",
+    "slider_image" : "https://img.freepik.com/premium-vector/refer-friend-vector-illustration-concept-people-shout-megaphone-with-refer-friend-word_78434-14.jpg?semt=ais_hybrid",
     "slider_image_description" : "Arkadaş Davet Et!",
      "slider_image_description_others" : "Collect and win!",
     "slider_image_link" : "Arkadaşlarını davet ederek elmas kazanabilirsin, her seviyede daha fazla elmas kazan! :)",
      "slider_image_link_others" : "You can earn diamonds by inviting your friends, get more diamonds in each level! :)",
-    "slider_show" : "hide",
+    "slider_show" : "show",
       "slider_type" : "info"
   },
   {
