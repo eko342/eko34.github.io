@@ -2,7 +2,7 @@
   {
    "slider_id" : "0",
    "slider_image" : "https://img.freepik.com/premium-vector/3d-white-cartoon-man-pointing-five-gold-star-rating-feedback-concept-isolated-blue-background_3482-8217.jpg",
-     "slider_image_description" : "Görüş Bildir!",
+     "slider_image_description" : "Görüşlerini Bekliyoruz",
      "slider_image_description_others" : "Do Comment!",
     "slider_image_link" : "https://play.google.com/store/apps/details?id=com.ecansoftware.sanslicevap",
      "slider_image_link_others" : "https://play.google.com/store/apps/details?id=com.ecansoftware.sanslicevap",
@@ -82,7 +82,7 @@
    {
     "slider_id" : "8",
     "slider_image" : "https://as2.ftcdn.net/v2/jpg/03/96/30/95/1000_F_396309502_ZxJCfGXkxjVlTtHxUi6L047jX9PJnk7D.jpg",
-    "slider_image_description" : "Bilgi İçin Tıkla!",
+    "slider_image_description" : "Bilgi İçin Tıkla",
      "slider_image_description_others" : "Info!",
     "slider_image_link" : "Gizlilik Politikamız yeni güncelleme ile güncellenmiştir. Yeni şartları soldaki menüye tıklayarak okuyabilirsiniz.",
      "slider_image_link_others" : "Our Privacy Policy has been updated with the new update. You can read the new terms by clicking the menu on the left.",
@@ -106,13 +106,13 @@
      "slider_image_description_others" : "Spin Slot!",
     "slider_image_link" : "https://",
      "slider_image_link_others" : "https://",
-    "slider_show" : "hide",
+    "slider_show" : "show",
       "slider_type" : "link"
   },
   {
      "slider_id" : "11",
     "slider_image" : "https://img.freepik.com/premium-vector/hand-holding-phone-with-megaphone-symbol-refer-friend-concept_185038-445.jpg?w=2000",
-    "slider_image_description" : "Arkadaş Davet Et!",
+    "slider_image_description" : "Arkadaş Davet Et",
      "slider_image_description_others" : "Collect and win!",
     "slider_image_link" : "Arkadaşlarını davet ederek elmas kazanabilirsin, her seviyede daha fazla elmas kazan! :)",
      "slider_image_link_others" : "You can earn diamonds by inviting your friends, get more diamonds in each level! :)",
@@ -122,7 +122,7 @@
   {
      "slider_id" : "12",
     "slider_image" : "https://static.vecteezy.com/system/resources/previews/006/067/960/non_2x/a-woman-earn-money-income-by-using-smartphone-vector.jpg",
-    "slider_image_description" : "Ödemeler Hakkında!",
+    "slider_image_description" : "Ödemeler Hakkında",
      "slider_image_description_others" : "About Payments!",
     "slider_image_link" : "Ödemeler her ayın 20-25'i arasında yapılır ve kullanıcılar bilgilendirilir. Haksız kazanç tespit edilmesi halinde ödeme yapılmaz ve hesap sınırsız şekilde engellenir.",
      "slider_image_link_others" : "Payments are made between the 20th and 25th of each month. No payment will be made for the unfair advantage and the account will be blocked.",
