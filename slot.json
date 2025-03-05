@@ -1,11 +1,11 @@
 [
   {
   "looptValue": 15,
-  "firstValue": 10,
-  "secValue": 15,
+  "firstValue": 5,
+  "secValue": 10,
   "thirdValue":5,
-  "fourthValue": 500,
-  "fifthValue": 10000,
+  "fourthValue": 2500,
+  "fifthValue": 2000,
   "minumber": 1,
   "maxnumber": 25,
   "maxnumberSec": 30,
