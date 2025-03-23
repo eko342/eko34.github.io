@@ -6,16 +6,16 @@
      "slider_image_description_others" : "Do Comment!",
     "slider_image_link" : "https://play.google.com/store/apps/details?id=com.ecansoftware.sanslicevap",
      "slider_image_link_others" : "https://play.google.com/store/apps/details?id=com.ecansoftware.sanslicevap",
-    "slider_show" : "show",
+    "slider_show" : "hide",
    "slider_type" : "link"
   },
   {
    "slider_id" : "1",
     "slider_image" : "https://static.vecteezy.com/system/resources/previews/005/525/140/non_2x/volumetric-cartoon-casino-wheel-fortune-with-gold-coins-around-on-purple-blurred-background-vector.jpg",
-    "slider_image_description" : "20 Çark Hakkı Hediye!",
-    "slider_image_description_others" : "20 Spin right Free!",
-    "slider_image_link" : "20",
-     "slider_image_link_others" : "20",
+    "slider_image_description" : "15 Çark Hakkı Hediye!",
+    "slider_image_description_others" : "15 Spin right Free!",
+    "slider_image_link" : "15",
+     "slider_image_link_others" : "15",
     "slider_show" : "show",
     "slider_type" : "spinzcvb52e9c" 
   },
