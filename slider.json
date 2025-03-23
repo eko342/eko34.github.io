@@ -1,12 +1,12 @@
 [
   {
    "slider_id" : "0",
-   "slider_image" : "https://img.freepik.com/premium-vector/3d-white-cartoon-man-pointing-five-gold-star-rating-feedback-concept-isolated-blue-background_3482-8217.jpg",
+   "slider_image" : "https://st3.depositphotos.com/16959514/31996/v/450/depositphotos_319966564-stock-illustration-five-stars-mobile-app-feedback.jpg",
      "slider_image_description" : "Görüşlerini Bekliyoruz",
      "slider_image_description_others" : "Do Comment!",
     "slider_image_link" : "https://play.google.com/store/apps/details?id=com.ecansoftware.sanslicevap",
      "slider_image_link_others" : "https://play.google.com/store/apps/details?id=com.ecansoftware.sanslicevap",
-    "slider_show" : "hide",
+    "slider_show" : "show",
    "slider_type" : "link"
   },
   {
