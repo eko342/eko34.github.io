@@ -7,7 +7,7 @@
     "slider_image_link" : "https://",
      "slider_image_link_others" : "https://",
     "slider_show" : "show",
-   "slider_type" : "link"
+   "slider_type" : "hide"
   },
   {
    "slider_id" : "1",
