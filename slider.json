@@ -12,12 +12,12 @@
   {
    "slider_id" : "1",
     "slider_image" : "https://static.vecteezy.com/system/resources/previews/005/525/140/non_2x/volumetric-cartoon-casino-wheel-fortune-with-gold-coins-around-on-purple-blurred-background-vector.jpg",
-    "slider_image_description" : "12 Çark Hakkı Hediye!",
-    "slider_image_description_others" : "12 Spin right Free!",
-    "slider_image_link" : "12",
-     "slider_image_link_others" : "12",
+    "slider_image_description" : "15 Çark Hakkı Hediye!",
+    "slider_image_description_others" : "15 Spin right Free!",
+    "slider_image_link" : "15",
+     "slider_image_link_others" : "15",
     "slider_show" : "show",
-    "slider_type" : "spinzcv41ch9c" 
+    "slider_type" : "spinzcv41c245249c" 
   },
   {
      "slider_id" : "2",
@@ -27,7 +27,7 @@
      "slider_image_link" : "5",
       "slider_image_link_others" : "5",
     "slider_show" : "hide",
-    "slider_type" : "scrath540v242"
+    "slider_type" : "scrath540534dv242"
   },
   {
      "slider_id" : "3",
@@ -42,12 +42,12 @@
     {
    "slider_id" : "4",
     "slider_image" : "https://media.istockphoto.com/id/187974430/photo/st-patricks-day-leprechaun-with-golden-pot.jpg?s=612x612&w=0&k=20&c=6K3BKXs3FouiT205iblXgkgTpblrY3OjGy5FB_ga-70=",
-    "slider_image_description" : "40 Zümrüt Hediye!",
-    "slider_image_description_others" : "40 Emarald right Free!",
-    "slider_image_link" : "40",
-     "slider_image_link_others" : "40",
+    "slider_image_description" : "70 Zümrüt Hediye!",
+    "slider_image_description_others" : "70 Emarald right Free!",
+    "slider_image_link" : "70",
+     "slider_image_link_others" : "70",
     "slider_show" : "show",
-    "slider_type" : "scrat23454dc" 
+    "slider_type" : "scrat234265454dc" 
   },
    {
      "slider_id" : "5",
@@ -56,7 +56,7 @@
      "slider_image_description_others" : "Application active!",
     "slider_image_link" : "https://",
      "slider_image_link_others" : "https://",
-    "slider_show" : "hide",
+    "slider_show" : "show",
       "slider_type" : "link"
   },
    {
